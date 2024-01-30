@@ -19,26 +19,26 @@ statistics most highly correlate to Expected Points Added and look at any predic
 
 ---
 ### AI Engineering
-[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)
-[Computer Vision](https://github.com/camillekokoko/Computer_Vision)
-[Deeplearning]https://github.com/camillekokoko/Deeplearning)
-[RNN](https://github.com/camillekokoko/RNN)
+-[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)
+-[Computer Vision](https://github.com/camillekokoko/Computer_Vision)
+-[Deeplearning](https://github.com/camillekokoko/Deeplearning)
+-[RNN](https://github.com/camillekokoko/RNN)
 
 ---
 ### Programming Language Proficiency
 
-[C_sharp](https://github.com/camillekokoko/C_sharp)
-[Java](https://github.com/camillekokoko/java_lang)
-[C](https://github.com/camillekokoko/C_lang_picsine)
-[Django](https://github.com/camillekokoko/my-first-blog)
+-[C_sharp](https://github.com/camillekokoko/C_sharp)
+-[Java](https://github.com/camillekokoko/java_lang)
+-[C](https://github.com/camillekokoko/C_lang_picsine)
+-[Django](https://github.com/camillekokoko/my-first-blog)
 
 ---
 ### Devops/MLops Proficiency
 
-[Database](https://github.com/camillekokoko/Database)
-[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)
-[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)
-[Airflow](https://github.com/camillekokoko/airflow-tutorial)
+-[Database](https://github.com/camillekokoko/Database)
+-[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)
+-[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)
+-[Airflow](https://github.com/camillekokoko/airflow-tutorial)
 
 ---
 
