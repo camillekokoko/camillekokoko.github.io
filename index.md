@@ -1,6 +1,4 @@
-## You are viewing : Portfolio
-## [Click me to Conference](/sample_page)
-## [Click me to Hackathon](/sample_page)
+## You are viewing : Portfolio | [Click me to Conference](/sample_page) | [Click me to Hackathon](/sample_page)
 
 ---
 ### AI Engineering
