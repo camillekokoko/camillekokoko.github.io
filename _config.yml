@@ -1,13 +1,21 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Camille Sze Pui Ko
 logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><be>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <div>
+    <h3>My Skills</h3>
+    <ul>
+      <li><img src="https://skillicons.dev/icons/js.svg" alt="JavaScript"> JavaScript</li>
+      <li><img src="https://skillicons.dev/icons/html.svg" alt="HTML"> HTML</li>
+      <li><img src="https://skillicons.dev/icons/css.svg" alt="CSS"> CSS</li>
+      <li><img src="https://skillicons.dev/icons/wasm.svg" alt="WebAssembly"> WebAssembly</li>
+    </ul>
+  </div>
   <br><br>
   <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
