@@ -3,11 +3,11 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Camille Sze Pui Ko
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
