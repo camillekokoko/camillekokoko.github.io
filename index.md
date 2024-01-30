@@ -1,10 +1,10 @@
 ## Portfolio
 
 ---
+### AI Engineering
 
-### Data Science Projects
+[EPA as a Predictor](/pdf/Lundeen_Final_Paper.pdf)
 
-[NFL Expected Points Analysis](https://htmlpreview.github.io/?https://github.com/camillekokoko/NFL_Expected_Points_Analysis/blob/main/Course_Project_HTML.html)
 <br><br>
 Expected Points is an equivalence metric for American Football that has been around since the 1960's and was reborn in the 2000's. In this project, 
 I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the the data to determine what 
@@ -14,7 +14,31 @@ statistics most highly correlate to Expected Points Added and look at any predic
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
 <img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
-<a href="https://github.com/camillekokoko/NFL_Expected_Points_Analysis">View Code on GitHub</a>
+<a href="https://github.com/camillekokoko/exBERTSum">View exBERTSum's Code on GitHub</a>
+<a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
+
+---
+### AI Engineering
+[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)
+[Computer Vision](https://github.com/camillekokoko/Computer_Vision)
+[Deeplearning]https://github.com/camillekokoko/Deeplearning)
+[RNN](https://github.com/camillekokoko/RNN)
+
+---
+### Programming Language Proficiency
+
+[C_sharp](https://github.com/camillekokoko/C_sharp)
+[Java](https://github.com/camillekokoko/java_lang)
+[C](https://github.com/camillekokoko/C_lang_picsine)
+[Django](https://github.com/camillekokoko/my-first-blog)
+
+---
+### Devops/MLops Proficiency
+
+[Database](https://github.com/camillekokoko/Database)
+[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)
+[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)
+[Airflow](https://github.com/camillekokoko/airflow-tutorial)
 
 ---
 
