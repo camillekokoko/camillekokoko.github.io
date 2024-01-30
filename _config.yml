@@ -7,15 +7,7 @@ logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><be>
-  <div>
-    <h3>My Skills</h3>
-    <ul>
-      <li><img src="https://skillicons.dev/icons/js.svg" alt="JavaScript"> JavaScript</li>
-      <li><img src="https://skillicons.dev/icons/html.svg" alt="HTML"> HTML</li>
-      <li><img src="https://skillicons.dev/icons/css.svg" alt="CSS"> CSS</li>
-      <li><img src="https://skillicons.dev/icons/wasm.svg" alt="WebAssembly"> WebAssembly</li>
-    </ul>
-  </div>
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   <br><br>
   <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
