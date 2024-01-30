@@ -4,7 +4,7 @@ plugins:
 
 title: Camille Sze Pui Ko
 logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
-description: >
+description: 
   Volunteer Data Analyst @ Infoxchange | PT Lecturer @ School of Computer Science, The University of Adelaide
 skills_image:
   url: "https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"
