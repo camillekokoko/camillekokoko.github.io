@@ -39,6 +39,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ###  2023 Australian Digital Inclusion Index Launch
 Infoxchange staff were invited in-person to the 2023 Australian Digital Inclusion Index Launch attended by staff members Pankaj Chhalotre, Head of Connecting Up and Catherine McIntyre, Community information and Volunteer Coordinator with the invitation extended to Data Analytics Team Volunteers Camille Sze Pui Ko, Govinda Gurung and Intern Jordana Izquierdo.
+---
+## You are viewing : Conference | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md) 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
