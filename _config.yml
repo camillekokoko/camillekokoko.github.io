@@ -7,7 +7,7 @@ logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><be>
- [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  skills_image_link: "[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)"
   <br><br>
   <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
