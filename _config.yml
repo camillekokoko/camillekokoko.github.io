@@ -5,9 +5,9 @@ plugins:
 title: Camille Sze Pui Ko
 logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Volunteer Data Analyst @ Infoxchange | PT Lecturer @ School of Computer Science, The University of Adelaide
   <br><be>
-  skills_image_link: "https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"
+  skills_image_link: "https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3?raw=true"
   <br><br>
   <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
