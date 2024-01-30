@@ -107,9 +107,28 @@ The following are Python projects of Machine Learning algorithms written from sc
 
 ---
 
-### Skilled-based Projects
+### Hackathon 
 
-A selection of smaller projects utilizing various DS and ML skills and packages.
+## Govhack-SA 2023 
+
+Participated in the XYZ Hackathon, a 48-hour event focusing on IoT solutions for smart living spaces.
+Problem Statement: Address the need for efficient home automation with a focus on energy conservation.
+Solution: Developed a SmartHome Automation system using Raspberry Pi and IoT sensors.
+Implemented features like automated lighting, temperature control, and energy monitoring.
+Technologies Used: Raspberry Pi, Python, MQTT, IoT sensors.
+My Role: Led a team of three developers.
+Implemented the energy monitoring module and integrated IoT sensors.
+Challenges Faced: Limited time for hardware setup.
+Debugging connectivity issues with IoT sensors.
+Achievements:
+
+Won the "Best Use of IoT" award.
+Demo:
+
+View the live demo here. <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=d_Ojm_xdoSACV2eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
 
 - [Data Visualization using Leaflet](https://rpubs.com/camillekokoko/nflstadiums)
 - [Data Visualization using Plotly](https://rpubs.com/camillekokoko/1029104)
