@@ -29,12 +29,18 @@ statistics most highly correlate to Expected Points Added and look at any predic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-### Devops/MLops Proficiency
+### DevOps/MLOps 
 
 -[Database](https://github.com/camillekokoko/Database)<br>
 -[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
 -[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
 -[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
+
+---
+### Data Analytics 
+
+-[PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+
 
 ---
 ### Programming Language Proficiency
