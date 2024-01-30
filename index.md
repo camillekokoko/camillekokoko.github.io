@@ -116,9 +116,9 @@ The following are Python projects of Machine Learning algorithms written from sc
 
 ---
 
-### Hackathon 
+## Hackathon 
 
-## Govhack-SA 2023 
+### Govhack-SA 2023 
 
 Participated in the XYZ Hackathon, a 48-hour event focusing on IoT solutions for smart living spaces.
 Problem Statement: Address the need for efficient home automation with a focus on energy conservation.
@@ -137,7 +137,9 @@ Demo:
 View the live demo here. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EjiI16aQEPI?si=uyHbDSV90_Yjwsw_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+### Hack4Good
 
+### MedHack
 
 
 - [Data Visualization using Leaflet](https://rpubs.com/camillekokoko/nflstadiums)
@@ -145,7 +147,11 @@ View the live demo here.
 - [Reproducible Research](https://rpubs.com/camillekokoko/297611)
 
 ---
+## Conference
+### AdelaideDDD2023
 
+###  2023 Australian Digital Inclusion Index Launch
+Infoxchange staff were invited in-person to the 2023 Australian Digital Inclusion Index Launch attended by staff members Pankaj Chhalotre, Head of Connecting Up and Catherine McIntyre, Community information and Volunteer Coordinator with the invitation extended to Data Analytics Team Volunteers Camille Sze Pui Ko, Govinda Gurung and Intern Jordana Izquierdo.
 
 
 
