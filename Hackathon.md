@@ -4,6 +4,8 @@
 ### 42 Adelaide
 
 ### Code Like Girl
+---
+## You are viewing : Conference | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md) 
 
 
 ---
