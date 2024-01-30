@@ -14,31 +14,31 @@ statistics most highly correlate to Expected Points Added and look at any predic
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
 <img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
-<a href="https://github.com/camillekokoko/exBERTSum">View exBERTSum's Code on GitHub</a>
+<a href="https://github.com/camillekokoko/exBERTSum">View exBERTSum's Code on GitHub</a><br>
 <a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
 
 ---
-### AI Engineering
--[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)
--[Computer Vision](https://github.com/camillekokoko/Computer_Vision)
--[Deeplearning](https://github.com/camillekokoko/Deeplearning)
--[RNN](https://github.com/camillekokoko/RNN)
-
----
-### Programming Language Proficiency
-
--[C_sharp](https://github.com/camillekokoko/C_sharp)
--[Java](https://github.com/camillekokoko/java_lang)
--[C](https://github.com/camillekokoko/C_lang_picsine)
--[Django](https://github.com/camillekokoko/my-first-blog)
+### Machine Learning and Deep Learning
+-[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
+-[Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
+-[Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
+-[RNN](https://github.com/camillekokoko/RNN)<br>
 
 ---
 ### Devops/MLops Proficiency
 
--[Database](https://github.com/camillekokoko/Database)
--[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)
--[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)
--[Airflow](https://github.com/camillekokoko/airflow-tutorial)
+-[Database](https://github.com/camillekokoko/Database)<br>
+-[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
+-[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
+-[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
+
+---
+### Programming Language Proficiency
+
+-[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
+-[Java](https://github.com/camillekokoko/java_lang)<br>
+-[C](https://github.com/camillekokoko/C_lang_picsine)<br>
+-[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
 ---
 
