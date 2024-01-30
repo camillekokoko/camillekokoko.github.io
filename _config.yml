@@ -7,7 +7,9 @@ logo: "/images/camillekokoko.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Volunteer Data Analyst @ Infoxchange | PT Lecturer @ School of Computer Science, The University of Adelaide
   <br><be>
-  skills_image_link: "https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3?raw=true"
+  skills_image:
+    url: "https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3"
+    alt: "Skills Image"
   <br><br>
   <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
