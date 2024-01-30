@@ -24,6 +24,7 @@ statistics most highly correlate to Expected Points Added and look at any predic
 -[Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
 -[Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
 -[RNN](https://github.com/camillekokoko/RNN)<br>
+-[Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br> <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ### Devops/MLops Proficiency
