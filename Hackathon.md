@@ -36,7 +36,7 @@ View the live demo here.
 
 ### Code Like Girl
 ---
-## You are viewing : Conference | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md) 
+## You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
 
 
 ---
