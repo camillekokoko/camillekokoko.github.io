@@ -1,6 +1,12 @@
 ## You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
+### Data Analytics and Visualisation
+
+-[PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+
+
+---
 ### AI Engineering
 
 [EPA as a Predictor](/pdf/Lundeen_Final_Paper.pdf)
@@ -35,12 +41,6 @@ statistics most highly correlate to Expected Points Added and look at any predic
 -[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
 -[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
 -[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
-
----
-### Data Analytics and Visualisation
-
--[PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
-
 
 ---
 ### Programming Language Proficiency
