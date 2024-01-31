@@ -82,7 +82,17 @@ This research project, conducted as part of my Master's program in AI and Machin
 
 Python and PyTorch served as the primary languages, complemented by SQL for database integration and Java for specific functionalities. Utilizing a streamlined software engineering workflow, I employed Git for version control, Docker for containerization, and database integration to manage data effectively. The project included building a seamless pipeline for data extraction and deploying the model to the web, showcasing the intersection of AI engineering and software development. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="position: relative; overflow: hidden; padding-bottom: 56.25%;">
+  <iframe
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+  ></iframe>
+</div>
+
 
 <a href="https://github.com/camillekokoko/exBERTSum">View exBERTSum's Code on GitHub</a><br>
 <a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
