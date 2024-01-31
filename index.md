@@ -3,9 +3,39 @@
 ---
 ### Data Analytics and Visualisation
 
--[PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
-[ga4]()
-[abtesting]()
+## role: data analyst with a strong background in utilizing Google Analytics 4 (GA4) and powerbi to derive actionable insights and drive business growth.
+
+### [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+- **Goal:** Increase online sales and improve user experience.
+- **Role:** Sole analyst responsible for implementing GA4 and analyzing data.
+- **Achievements:**
+  - Increased conversion rate by 15% through targeted user engagement strategies.
+  - Implemented advanced e-commerce tracking to monitor product performance.
+
+### [Project 1: E-commerce Optimization]
+
+- **Goal:** Increase online sales and improve user experience.
+- **Role:** Sole analyst responsible for implementing GA4 and analyzing data.
+- **Achievements:**
+  - Increased conversion rate by 15% through targeted user engagement strategies.
+  - Implemented advanced e-commerce tracking to monitor product performance.
+
+### [Project 2: User Engagement Study]
+
+- **Goal:** Understand user behavior and enhance content engagement.
+- **Role:** Led a team to implement GA4 and conduct data analysis.
+- **Achievements:**
+  - Utilized custom dimensions to categorize content for detailed analysis.
+  - Improved engagement metrics by 20% through data-driven content adjustments.
+
+## Key Skills
+
+- **GA4 Implementation:** Successfully implemented GA4 for various projects, ensuring accurate data collection and reporting.
+- **Event Tracking:** Proficient in tracking custom events to gain insights into user interactions.
+- **Audience Segmentation:** Expertise in creating and utilizing audience segments for targeted analysis.
+- **Data Analysis:** Skilled in extracting actionable insights from complex datasets using GA4.
+- **Integration:** Experience in integrating GA4 with other platforms, including Google BigQuery.
+
 ---
 ### AI Engineering
 
