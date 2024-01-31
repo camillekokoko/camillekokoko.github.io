@@ -1,12 +1,10 @@
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
-
 | Jump To                      |                              |                             |
 |------------------------------|--------------------------------------|--------------------------------------|
 | [AI Engineering](#ai-eng)     | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud)      |
 | [GIS](#gis)                   | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
-
 
 ---
 # Data Analytics and Visualisation <a name="analytics-visual"></a>
@@ -215,19 +213,10 @@ View Code [here](/survey.R/model_selection.R)<br>
 ### 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
 ---
-| Jump To                      |                              |                             |
-|------------------------------|--------------------------------------|--------------------------------------|
-| [Statistical Analysis](#stat-analysis)    | [Geographic Information System (GIS)](#gis) |[DevOps/MLOps/Cloud](#Ops-cloud)      |
-| [Machine Learning and Deep Learning](#mldl)                | [AI Engineering](#ai-eng) | [Data Analytics and Visualisation](#analytics-visual) |
-
-
-
-
-
-
-
-
-
+| Jump To                              |                                      |                                    |
+|--------------------------------------|--------------------------------------|------------------------------------|
+| [Statistical Analysis](#stat-analysis)| [Geographic Information System (GIS)](#gis) | [DevOps/MLOps/Cloud](#Ops-cloud)  |
+| [Machine Learning and Deep Learning](#mldl)| [AI Engineering](#ai-eng)          | [Data Analytics and Visualization](#analytics-visual) |
 
 ---
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
