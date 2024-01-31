@@ -44,9 +44,10 @@ Achievement: Orygen_Digital, our project, won the People's choice award!! We dev
 
 ![Our awesome group](images/1697422610153.jpg)
 ![hack_orygen](images/hack_orygen.jpg)
-![hack_orygen](images/hack_orygen1.jpg)
+![hack_orygen1](images/hack_orygen1.jpg)
 
 View the [slides](/pdf/Team_Orygen.pdf) here.
+
 ---
 
 ### Adelaide MedTech Hackathon by ThincLab: Salud MedAI
