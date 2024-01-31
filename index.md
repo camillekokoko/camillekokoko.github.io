@@ -89,7 +89,7 @@ As a Data Analyst, I skillfully employed both claimed and observed data to deriv
 
 ![persona](images/persona.jpg)
 ![rf](images/example_rf.jpg)
-![kmean](images/kmean.jpg)
+![kmean](images/example_kmean.jpg)
 
 
 
