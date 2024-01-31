@@ -17,13 +17,12 @@ Analyzing and presenting council-based analytics summaries on community services
 
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
-### 2. [E-commerce Optimization - AB Testing]
+### 2. [E-commerce Optimization - AB Testing](pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
 
-- **Goal:** Increase online sales and improve user experience.
-- **Role:** Sole analyst responsible for implementing GA4 and analyzing data.
-- **Achievements:**
-  - Increased conversion rate by 15% through targeted user engagement strategies.
-  - Implemented advanced e-commerce tracking to monitor product performance.
+Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
+
+![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)
+
 
 ### [User Engagement Study]
 
