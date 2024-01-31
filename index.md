@@ -17,6 +17,7 @@ Analyzing and presenting council-based analytics summaries on community services
 
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
+---
 ### 2. [E-commerce Optimization - AB Testing](pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
 Certainly! Here are five badges based on your format:
 
