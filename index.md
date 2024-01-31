@@ -3,14 +3,18 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
 ---
 # Data Analytics and Visualisation
 
-### [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
-- **Goal:** Increase online sales and improve user experience.
-- **Role:** Sole analyst responsible for implementing GA4 and analyzing data. data analyst with a strong background in utilizing Google Analytics 4 (GA4) and powerbi to derive actionable insights and drive business growth.
-- **Achievements:**
-  - Increased conversion rate by 15% through targeted user engagement strategies.
-  - Implemented advanced e-commerce tracking to monitor product performance.
+### [Reporting for 2021-2023 on Community Services within the City of Whyalla](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+<img src="https://img.shields.io/badge/Python-white?logo=PowerBI"> 
+<img src="https://img.shields.io/badge/Python-white?logo=GA-UA"> 
+<img src="https://img.shields.io/badge/Python-white?logo=CRM-Database">
+<img src="https://img.shields.io/badge/Python-white?logo=Canva"> 
+<img src="https://img.shields.io/badge/Python-white?logo=Advanced Excel"> 
 
-### [Project 1: E-commerce Optimization]
+presenting council-based analytics summaries on community services and information demands provides an indication of the social and demographic needs of a council. The information can enable informed decision-making regarding service gaps, equitable distribution, and sharing of community grants, resources, and assets resulting in improved support and outcomes for the whole community.
+
+View [my experience](https://sacommunity.org/node/1081) at Infoxchange
+
+### [E-commerce Optimization - AB Testing]
 
 - **Goal:** Increase online sales and improve user experience.
 - **Role:** Sole analyst responsible for implementing GA4 and analyzing data.
@@ -18,7 +22,7 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
   - Increased conversion rate by 15% through targeted user engagement strategies.
   - Implemented advanced e-commerce tracking to monitor product performance.
 
-### [Project 2: User Engagement Study]
+### [User Engagement Study]
 
 - **Goal:** Understand user behavior and enhance content engagement.
 - **Role:** Led a team to implement GA4 and conduct data analysis.
