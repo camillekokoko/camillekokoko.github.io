@@ -23,7 +23,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ---
 ### 2. E-commerce Optimization - AB Testing
 
-![BigQuery](https://img.shields.io/badge/GoogleBigQuery?logo=googlebigquery)
+![BigQuery](https://img.shields.io/badge/google--bigquery-white?logo=googlebigquery)
 ![GitLab](https://img.shields.io/badge/gitlab-white?logo=gitlab)
 ![E-commerce Tracking](https://img.shields.io/badge/E_commerce_Tracking-white?logo=shopping-cart)
 ![GA-4](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
