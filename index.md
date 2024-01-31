@@ -36,7 +36,7 @@ Spearheaded the enhancement of online sales and user experience as an Analytic E
 
 <br>
 
-View [winner analysis pdf](pdf/Winner_Analysis_AB_Test 8_Rearranging_tabs _ Product Anchor_on_PDP.pdf)
+View [the pdf of one of the winner analysis on rearranging tabs product anchor experiment](pdf/Winner_Analysis_AB_Test 8_Rearranging_tabs _ Product Anchor_on_PDP.pdf)
 
 ### [User Engagement Study]
 
