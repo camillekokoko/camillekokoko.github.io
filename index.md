@@ -23,7 +23,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ---
 ### 2. E-commerce Optimization - AB Testing
 
-![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-white?logo=box)
+![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-blue?logo=box)
 ![User Engagement](https://img.shields.io/badge/User_Engagement-white?logo=interaction)
 ![E-commerce Tracking](https://img.shields.io/badge/E_commerce_Tracking-white?logo=shopping-cart)
 ![GA-4](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
