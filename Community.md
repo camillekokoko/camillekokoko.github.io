@@ -3,8 +3,9 @@ breadcrumb > You are viewing : Tech Community | [Click me to Hackathon](/Hackath
 ---
 ## Conference
 ### AdelaideDDD2023
-![adelaideddd2023](/images/IMG_2563.jpg)
-<img src="images/IMG_2563.jpg"/>
+![adelaideddd2023](https://drive.google.com/file/d/11uuY2sLU81nCT9O1-QrX6LLSmC4kz2eW/view?usp=sharing)
+![adelaideddd2023_1](https://drive.google.com/file/d/1KKC65bQkL1nvlPPW46VAmlImqA1Fivgm/view?usp=sharing)
+
 
 AdelaideDDD2023 provided an excellent platform to dive deep into cutting-edge data-driven discussions. As a data enthusiast, I actively engaged in sessions focused on the latest trends in data analytics, machine learning, and artificial intelligence. My participation included:
 
@@ -15,8 +16,7 @@ AdelaideDDD2023 provided an excellent platform to dive deep into cutting-edge da
 - **Continuous Learning:** Proactively leading a lightning talk on leveraging Python for data manipulation and analysis during PyCon2023 and attending in-depth sessions on optimizing Python code for data-intensive tasks.
 
 ### PyCon2023
-![pycon](/images/IMG_1397.jpg)
-<img src="images/IMG_1397.jpg"/>
+![pycon](https://drive.google.com/file/d/1aM0h6ovux8g4pwYLLFVD4CdkyZoVito5/view?usp=sharing)
 Participating in PyCon2023, a premier conference for Python enthusiasts, provided an immersive experience to showcase my data expertise:
 
 - **Technical Proficiency:** Attended workshops on advanced Python libraries for data analysis and machine learning, demonstrating proficiency in leveraging Python for data-driven solutions.
@@ -33,6 +33,8 @@ Infoxchange staff were invited in-person to the 2023 Australian Digital Inclusio
 
 ## Community
 ### 42 Adelaide
+
+![42](https://drive.google.com/file/d/1hL0AXJAHHmJANzhlwswMvQKuaSpGSwab/view?usp=sharing)
 As an active member of 42 Adelaide, a coding community fostering collaborative learning, I showcased my data skills by:
 
 - **Leadership:** Organizing and leading workshops on data analysis with Python, mentoring fellow members in data science projects, and collaborating on hackathons that involved solving real-world data challenges.
@@ -55,8 +57,7 @@ As a dedicated contributor to Code Like Girl, an organization empowering women i
 
 ### SACommunity / ConnectingUp / Infoxchange
 
-![sacom](/images/IMG_3752.jpg)
-<img src="images/IMG_3752.jpg"/>
+![sacom](/images/sacom.jpg)
 
 **Details:**
 My engagement with SACommunity, ConnectingUp, and Infoxchange showcased my ability to leverage data for community impact:
@@ -81,8 +82,7 @@ As a participant in the Microsoft Student Accelerator program, I honed my skills
 
 ### Breakfast Club @ Student Care @ Youx @ Uni Adelaide
 
-![breakfast club](/images/IMG_3949.jpg)
-<img src="images/IMG_3949.JPG"/>
+![breakfast club](https://drive.google.com/file/d/1cmIAKz-1cKnzSoew3d-kMCa71exyjAbA/view?usp=sharing)
 
 **Details:**
 As a participant in the Breakfast Club at Student Care, organized in collaboration with Youx and the University of Adelaide, I not only contributed to fostering a supportive community but also showcased my skills and soft skills in the following aspects:
