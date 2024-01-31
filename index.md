@@ -16,7 +16,7 @@ Analyzing and presenting council-based analytics summaries on community services
 
 ![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
-View [PowerBI dashboard of Whyalla 2022-2023](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)
+View [PowerBI dashboard of Whyalla 2022-2023](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 ---
@@ -30,9 +30,9 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
-![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)
+![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)<br>
 
-View [winner analysis pdf]((pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
+View [winner analysis pdf]("pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf")
 
 ### [User Engagement Study]
 
