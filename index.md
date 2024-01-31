@@ -21,11 +21,14 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ### 2. [E-commerce Optimization - AB Testing](pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
 Certainly! Here are five badges based on your format:
 
-![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAcklEQVR42mJ8UgjnkwASpKTNIyRNTsmkks2MzKwh4pLSk4udFKOcTHPdPAM13v4ObwcnBxxkqTErz4m0jRmTFlkXu3b8BjA8xkCTKD+CYxDykBbN/jTTJcA04WAC/4l6KMUZD1RFAUQkYSa6gAW00GFkG4KgggBnYEGhwEKAQAA7uL0TukI6zAAAAAElFTkSuQmCC)
-![User Engagement](https://img.shields.io/badge/User_Engagement-white)
-![E-commerce Tracking](https://img.shields.io/badge/E_commerce_Tracking-white)
+![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-white?logo=box)
+![User Engagement](https://img.shields.io/badge/User_Engagement-white?logo=interaction)
+![E-commerce Tracking](https://img.shields.io/badge/E_commerce_Tracking-white?logo=shopping-cart)
 ![GA-4](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
-![AB Testing](https://img.shields.io/badge/AB_Testing-white)
+![AB Testing](https://img.shields.io/badge/AB_Testing-white?logo=chart-bar)
+
+
+There isn't a specific universally recognized logo for "statistics." However, you can use a generic icon or image that represents data or charts to convey the concept of statistics. Here's an example:
 
 Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
