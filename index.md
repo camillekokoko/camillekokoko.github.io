@@ -40,9 +40,10 @@ View [the pdf of one of the winner analysis on rearranging tabs product anchor e
 ### 3. User Journey and Engagement Study
 ![BigQuery](https://img.shields.io/badge/google--bigquery-white?logo=googlebigquery)
 ![Google Cloud Platform](https://img.shields.io/badge/google--cloud--platform-white?logo=googlecloud)
+![Amazon Web Service](https://img.shields.io/badge/aws-white?logo=amazonrds)
 ![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
-![UIUX](https://img.shields.io/badge/UIUX-white?logo=uiux)
+![data studio](https://img.shields.io/badge/visualization-white?logo=looker)
 
 As the sole analyst and engineer, I independently implemented GA4 and conducted data modelling, extract-load-tranform (ELT) and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed product/web analytics and a 20% improvement in engagement metrics through data-driven UI/UX adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management, and integration with platforms like Google BigQuery.
 
@@ -56,11 +57,14 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 
 [Research Project: ](/pdf/Lundeen_Final_Paper.pdf)
 
-![BERT](https://img.shields.io/badge/BERT-black?logo=bert)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
-![LLM](https://img.shields.io/badge/LLM-black?logo=llm)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode)
+![BERT](https://img.shields.io/badge/BERT-white?logo=bert)
+![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
+![LLM](https://img.shields.io/badge/LLM-white?logo=llm)
+![Git](https://img.shields.io/badge/Git-white?logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-white?logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/docker-white?logo=docker)
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
