@@ -3,7 +3,7 @@ breadcrumb > You are viewing : Tech Community | [Click me to Hackathon](/Hackath
 ---
 ## Conference
 ### AdelaideDDD2023
-![pycon](images/IMG_2563.jpg)
+![adelaideddd2023](images/IMG_2563.jpg)
 AdelaideDDD2023 provided an excellent platform to dive deep into cutting-edge data-driven discussions. As a data enthusiast, I actively engaged in sessions focused on the latest trends in data analytics, machine learning, and artificial intelligence. My participation included:
 
 - **Analytical Insight:** Attending workshops on advanced data visualization techniques, contributing insights during panel discussions on data ethics, and privacy, and networking with industry experts to stay abreast of emerging technologies.
@@ -52,7 +52,7 @@ As a dedicated contributor to Code Like Girl, an organization empowering women i
 
 ### SACommunity / ConnectingUp / Infoxchange
 
-![pycon](images/IMG_3752.jpg)
+![sacom](images/IMG_3752.jpg)
 **Details:**
 My engagement with SACommunity, ConnectingUp, and Infoxchange showcased my ability to leverage data for community impact:
 
@@ -62,7 +62,7 @@ My engagement with SACommunity, ConnectingUp, and Infoxchange showcased my abili
 
 
 ### Microsoft Student Accelerator
-![pycon](images/microsoft.jpeg) 
+![microsoft](images/microsoft.jpeg) 
 As a participant in the Microsoft Student Accelerator program, I honed my skills and contributed to the data-centric projects, showcasing my abilities in the following areas:
 
 - **Project Collaboration:** Collaborated with a diverse team of students, leveraging collective strengths to address real-world challenges using data-driven solutions.
@@ -76,7 +76,7 @@ As a participant in the Microsoft Student Accelerator program, I honed my skills
 
 ### Breakfast Club @ Student Care @ Youx @ Uni Adelaide
 
-![pycon](images/IMG_3949.jpg)
+![breakfast club](images/IMG_3949.jpg)
 **Details:**
 As a participant in the Breakfast Club at Student Care, organized in collaboration with Youx and the University of Adelaide, I not only contributed to fostering a supportive community but also showcased my skills and soft skills in the following aspects:
 
