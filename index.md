@@ -112,11 +112,19 @@ Check out [code](https://github.com/camillekokoko/RNN)<br>
 ---
 ### 6. Precision Small Object Detection in Real-Life Applications using Fasterrcnn_resnet50_fpn and SSD300_vgg16 Algorithms
 
+![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
+![Computer Vision](https://img.shields.io/badge/computer--vision-white?logo=cv)
+![Anaconda](https://img.shields.io/badge/Anaconda-white?logo=anaconda)
+![Python](https://img.shields.io/badge/python-white?logo=python)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 During my research and pursuit of a master's degree in AI and machine learning, I played a pivotal role in developing this computer vision project which utilized algorithms, specifically Fasterrcnn_resnet50_fpn and SSD300_vgg16, with a primary focus on enhancing precision in detecting small objects within real-world contexts. The implementation showcased a robust and efficient solution, achieving high accuracy in object detection for improved practical applications. Notable features include the integration of the ResNet50 backbone network and Feature Pyramid Network (FPN) in Fasterrcnn_resnet50_fpn for efficient and accurate detection. Additionally, SSD300_vgg16 employed a Single Shot Multibox Detector (SSD) with a VGG16 backbone, ensuring real-time object detection across diverse scenarios.
 
-Check out the [code] here ](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
+Check out the [code] here(https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
+
 ---
 ---
 # DevOps/MLOps/Cloud
@@ -126,7 +134,7 @@ Check out the [code] here ](https://github.com/camillekokoko/Computer_Vision/blo
 ### 3.[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
 ### 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 
----
+
 ---
 ---
 # QIS 
