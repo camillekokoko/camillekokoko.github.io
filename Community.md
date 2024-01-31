@@ -5,7 +5,7 @@ breadcrumb > You are viewing: Tech Community | [Click me to Hackathon](/Hackatho
 ## Conference
 
 ---
-### AdelaideDDD2023
+### DDDAdelaide2023
 ![AdelaideDDD2023](images/adlddd.jpg)
 ![AdelaideDDD2023_1](images/adlddd1.jpg)
 
