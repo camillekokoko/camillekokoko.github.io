@@ -24,3 +24,14 @@
    top: -4px;
    transition: transform 0.2s ease-out;
 }
+/* Responsive styles */
+@media screen and (max-width: 768px) {
+   #progress-bar {
+      height: 6px; /* Adjust height for smaller screens */
+   }
+
+   #indicator {
+      height: 8px;
+      width: 8px;
+   }
+}
