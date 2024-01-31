@@ -214,7 +214,7 @@ View Code [here](/survey.R/model_selection.R)<br>
 
 ### 3. [C Programming](https://github.com/camillekokoko/C_lang_picsine) ![C](https://img.shields.io/badge/C-black?logo=c)
 
-### 4. [Django](https://github.com/camillekokoko/my-first-blog) ![Django](https://img.shields.io/badge/Django-black?logo=django)
+### 4. [Django - python web framework](https://github.com/camillekokoko/my-first-blog) ![Django](https://img.shields.io/badge/Django-black?logo=django) ![Python](https://img.shields.io/badge/python-black?logo=python)
 
 
 ---
