@@ -1,21 +1,6 @@
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
-Jump to: [AI Engineering](#ai-eng) |
-[Machine Learning and Deep Learning](#mldl) |
-[DevOps/MLOps/Cloud](#Ops-cloud) |
-[Geographic Information System (GIS)](#gis) | 
-[Statistical Analysis](#stat-analysis) | 
-[Programming Language Proficiency](#programming-lang) 
-
-| Jump To                       |
-|-------------------------------|
-| [AI Engineering](#ai-eng)      |
-| [Machine Learning and Deep Learning](#mldl) |
-| [DevOps/MLOps/Cloud](#Ops-cloud) |
-| [Geographic Information System (GIS)](#gis) |
-| [Statistical Analysis](#stat-analysis) |
-| [Programming Language Proficiency](#programming-lang) |
 
 | Jump To                      |                              |                             |
 |------------------------------|--------------------------------------|--------------------------------------|
@@ -230,14 +215,19 @@ View Code [here](/survey.R/model_selection.R)<br>
 ### 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
 ---
-Jump to:
+| Jump To                      |                              |                             |
+|------------------------------|--------------------------------------|--------------------------------------|
+| [Statistical Analysis](#stat-analysis)    | [Geographic Information System (GIS)](#gis) |[DevOps/MLOps/Cloud](#Ops-cloud)      |
+| [Machine Learning and Deep Learning](#mldl)                | [AI Engineering](#ai-eng) | [Data Analytics and Visualisation](#analytics-visual) |
 
-[Statistical Analysis](#stat-analysis)
-[Geographic Information System (GIS)](#gis)
-[DevOps/MLOps/Cloud](#Ops-cloud)
-[Machine Learning and Deep Learning](#mldl)
-[AI Engineering](#ai-eng)
-[Data Analytics and Visualisation](#analytics-visual)
+
+
+
+
+
+
+
+
 
 ---
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
