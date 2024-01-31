@@ -35,10 +35,11 @@ Spearheaded the enhancement of online sales and user experience as an Analytic E
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/scmp_ab_testing_small.jpg)
 
 View [the pdf of one of the winner analysis on rearranging tabs product anchor experiment](pdf/Winner_Analysis_AB_Test 8_Rearranging_tabs _ Product Anchor_on_PDP.pdf)
+
 ---
 ### 3. User Journey and Engagement Study
 
-As the sole analyst and engineer, I independently implemented GA4 and conducted comprehensive data analysis and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed content analysis and a 20% improvement in engagement metrics through data-driven content adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management and integration with platforms like Google BigQuery.
+As the sole analyst and engineer, I independently implemented GA4 and conducted comprehensive data analysis and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed content analysis and a 20% improvement in engagement metrics through data-driven content adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management, and integration with platforms like Google BigQuery.
 
 ![Combine_ga4_bigquery_for insight](images/revenue_driver_ga4_bigquery.jpg.jpg)
 
