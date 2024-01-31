@@ -27,7 +27,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ![GitLab](https://img.shields.io/badge/gitlab-white?logo=gitlab)
 ![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
 ![AB Testing](https://img.shields.io/badge/AB_Testing-white?logo=chart-bar)
-![SQL](https://img.shields.io/badge/SQL-white?logo=sql)
+![SQL](https://img.shields.io/badge/SQL-white?logo=mysql)
 
 
 Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
