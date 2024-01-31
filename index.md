@@ -55,7 +55,7 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ---
 # AI Engineering
 
-[Research Project: ](/pdf/Lundeen_Final_Paper.pdf)
+1. Leveraging large language model with domain adaptation: enhancing community directories with deep learning text summarization for machine-readable cataloging (MARC) standard description notes
 
 ![BERT](https://img.shields.io/badge/BERT-white?logo=bert)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
@@ -64,25 +64,24 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ![VSCode](https://img.shields.io/badge/VSCode-white?logo=visualstudiocode)
 ![Docker](https://img.shields.io/badge/docker-white?logo=docker)
 
+This research project, conducted as part of my Master's program in AI and Machine Learning at the University of Adelaide, explores the integration of state-of-the-art technologies such as BERT, PyTorch, and Large Language Models (LLM), domain adaptation in the field of AI engineering and Natural Language Processing (NLP).  The focus is on optimizing community directories, particularly utilizing the SAcommunity open data database with around 14,500 records. The goal is to generate MARC standard description notes for the summary field in the directory using deep learning-based text summarization. Focused on optimizing community directories, the project utilizes domain adaptation techniques to refine text summarization for Machine-Readable Cataloging (MARC) standard description notes. Git serves as a vital version control tool, ensuring collaborative and organized development.
 
+Python and PyTorch served as the primary languages, complemented by SQL for database integration and Java for specific functionalities. Utilizing a streamlined software engineering workflow, I employed Git for version control, Docker for containerization, and database integration to manage data effectively. The project included building a seamless pipeline for data extraction and deploying the model to the web, showcasing the intersection of AI engineering and software development. 
+
+This work is detailed in my thesis paper, highlighting the impactful role of Python and PyTorch in advancing community information cataloging.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-Expected Points is an equivalence metric for American Football that has been around since the 1960's and was reborn in the 2000's. In this project, 
-I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the the data to determine what 
-statistics most highly correlate to Expected Points Added and look at any predictive value of the models.
-<br><br>
 
 <a href="https://github.com/camillekokoko/exBERTSum">View exBERTSum's Code on GitHub</a><br>
 <a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
 
 ---
 # Machine Learning and Deep Learning
--[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
--[Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
--[Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
--[RNN](https://github.com/camillekokoko/RNN)<br>
--[Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
+## 1. [Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
+## 2. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
+## 3. [Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
+## 4. [RNN](https://github.com/camillekokoko/RNN)<br>
+## 5. [Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
