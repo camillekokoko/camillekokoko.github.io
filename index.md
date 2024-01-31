@@ -94,14 +94,21 @@ As a Data Analyst, I skillfully employed both claimed and observed data to deriv
 ---
 ### 2. Explainable AI with Shapley values
 
-View code [here](https://github.com/camillekokoko/SHAP_horse_racing)<br>
+View code [here](https://github.com/camillekokoko/SHAP_horse_racing)
+
 ---
 
-### 3. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
+### 3. Computer Vision
+Check out [code] (https://github.com/camillekokoko/Computer_Vision)
+
 ---
-### 4. [Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
+### 4. Deeplearning
+Check out [code] (https://github.com/camillekokoko/Deeplearning)
+
 ---
-### 5. [RNN](https://github.com/camillekokoko/RNN)<br>
+### 5. RNN
+Check out [code](https://github.com/camillekokoko/RNN)<br>
+
 ---
 ### 6. Precision Small Object Detection in Real-Life Applications using Fasterrcnn_resnet50_fpn and SSD300_vgg16 Algorithms
 
@@ -110,7 +117,6 @@ View code [here](https://github.com/camillekokoko/SHAP_horse_racing)<br>
 During my research and pursuit of a master's degree in AI and machine learning, I played a pivotal role in developing this computer vision project which utilized algorithms, specifically Fasterrcnn_resnet50_fpn and SSD300_vgg16, with a primary focus on enhancing precision in detecting small objects within real-world contexts. The implementation showcased a robust and efficient solution, achieving high accuracy in object detection for improved practical applications. Notable features include the integration of the ResNet50 backbone network and Feature Pyramid Network (FPN) in Fasterrcnn_resnet50_fpn for efficient and accurate detection. Additionally, SSD300_vgg16 employed a Single Shot Multibox Detector (SSD) with a VGG16 backbone, ensuring real-time object detection across diverse scenarios.
 
 Check out the [code] here ](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
-
 ---
 ---
 # DevOps/MLOps/Cloud
