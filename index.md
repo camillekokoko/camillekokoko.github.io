@@ -79,6 +79,11 @@ Python and PyTorch served as the primary languages, complemented by SQL for data
 ---
 # Machine Learning and Deep Learning
 ### 1. Optimizing User Personas in Newspapers: A Machine Learning Approach with K-means and Random Forest Models
+![BigQuery](https://img.shields.io/badge/google--bigquery-white?logo=googlebigquery)
+![Google Cloud Platform](https://img.shields.io/badge/google--cloud--platform-white?logo=googlecloud)
+![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
+![Machine Learning](https://img.shields.io/badge/machinelearning-white)
+![Python](https://img.shields.io/badge/python-white?logo=python)
 
 As a Data Analyst, I skillfully employed both claimed and observed data to derive valuable insights and inform decision-making processes in marketing, advertising, content planning, and other related domains. This approach ensured a comprehensive understanding of user behavior and preferences for effective strategy implementation.
 
