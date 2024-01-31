@@ -131,8 +131,18 @@ Check out [code](https://github.com/camillekokoko/RNN)
 
 This is one of the computer vision I have done during my research and pursuit of a master's degree in AI and machine learning. The project utilized algorithms with a primary focus on enhancing precision in detecting small objects within real-world contexts. The implementation showcased a robust and efficient solution, achieving high accuracy in object detection for improved practical applications. Notable features include the integration of the ResNet50 backbone network and Feature Pyramid Network (FPN) in Fasterrcnn_resnet50_fpn for efficient and accurate detection. Additionally, SSD300_vgg16 employed a Single Shot Multibox Detector (SSD) with a VGG16 backbone, ensuring real-time object detection across diverse scenarios.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe 
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen
+    ></iframe>
+</div>
 
 
 Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)
