@@ -38,12 +38,18 @@ View [the pdf of one of the winner analysis on rearranging tabs product anchor e
 
 ---
 ### 3. User Journey and Engagement Study
+![BigQuery](https://img.shields.io/badge/google--bigquery-white?logo=googlebigquery)
+![Google Cloud Platform](https://img.shields.io/badge/google__cloud__platform-white?logo=googlecloudplatform)
+![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
+![Python](https://img.shields.io/badge/Python-white?logo=python)
+![UIUX](https://img.shields.io/badge/UIUX-white?logo=uiux)
 
-As the sole analyst and engineer, I independently implemented GA4 and conducted comprehensive data analysis and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed content analysis and a 20% improvement in engagement metrics through data-driven content adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management, and integration with platforms like Google BigQuery.
+As the sole analyst and engineer, I independently implemented GA4 and conducted comprehensive data analysis and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed product/web analytics and a 20% improvement in engagement metrics through data-driven UI/UX adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management, and integration with platforms like Google BigQuery.
 
-![Combine_ga4_bigquery_for insight](images/revenue_driver_ga4_bigquery.jpg.jpg)
+![Combine_ga4_bigquery_for insight](images/revenue_driver_ga4_bigquery.jpg)
 
 Check out the code [here](https://github.com/camillekokoko/GA4)
+
 ---
 ---
 # AI Engineering
