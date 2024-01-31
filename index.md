@@ -66,11 +66,9 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ![Java](https://img.shields.io/badge/java-white?logo=java)
 
 
-This research project, conducted as part of my Master's program in AI and Machine Learning at the University of Adelaide, explores the integration of state-of-the-art technologies such as BERT, PyTorch, and Large Language Models (LLM), domain adaptation in the field of AI engineering and Natural Language Processing (NLP).  The focus is on optimizing community directories, particularly utilizing the SAcommunity open data database with around 14,500 records. The goal is to generate MARC standard description notes for the summary field in the directory using deep learning-based text summarization. Focused on optimizing community directories, the project utilizes domain adaptation techniques to refine text summarization for Machine-Readable Cataloging (MARC) standard description notes. Git serves as a vital version control tool, ensuring collaborative and organized development.
+This research project, conducted as part of my Master's program in AI and Machine Learning at the University of Adelaide, explores the integration of state-of-the-art technologies such as BERT, PyTorch, and Large Language Models (LLM), domain adaptation in the field of AI engineering and Natural Language Processing (NLP).  The focus is on optimizing community directories, particularly utilizing the SAcommunity open data database with around 14,500 records, by generating MARC standard description notes for the new summary field in the directory using deep learning-based text summarization.
 
 Python and PyTorch served as the primary languages, complemented by SQL for database integration and Java for specific functionalities. Utilizing a streamlined software engineering workflow, I employed Git for version control, Docker for containerization, and database integration to manage data effectively. The project included building a seamless pipeline for data extraction and deploying the model to the web, showcasing the intersection of AI engineering and software development. 
-
-This work is detailed in my thesis paper, highlighting the impactful role of Python and PyTorch in advancing community information cataloging.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
