@@ -1,6 +1,7 @@
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
+
 | Jump To                      |                              |                             |
 |------------------------------|--------------------------------------|--------------------------------------|
 | [AI Engineering](#ai-eng)     | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud)      |
@@ -213,6 +214,7 @@ View Code [here](/survey.R/model_selection.R)<br>
 ### 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
 ---
+
 | Jump To                              |                                      |                                    |
 |--------------------------------------|--------------------------------------|------------------------------------|
 | [Statistical Analysis](#stat-analysis)| [Geographic Information System (GIS)](#gis) | [DevOps/MLOps/Cloud](#Ops-cloud)  |
