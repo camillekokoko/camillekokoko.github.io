@@ -78,11 +78,21 @@ Python and PyTorch served as the primary languages, complemented by SQL for data
 ---
 ---
 # Machine Learning and Deep Learning
-### 1. [Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
-### 2. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
-### 3. [Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
-### 4. [RNN](https://github.com/camillekokoko/RNN)<br>
-### 5. [Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
+### 1. Optimizing User Personas in Newspapers: A Machine Learning Approach with K-means and Random Forest Models
+
+As a Data Analyst, I skillfully employed both claimed and observed data to derive valuable insights and inform decision-making processes in marketing, advertising, content planning, and other related domains. This approach ensured a comprehensive understanding of user behavior and preferences for effective strategy implementation.
+
+![persona](images/persona.jpg)
+![rf](images/example_rf.jpg)
+![kmean](images/kmean.jpg)
+
+
+
+### 2. [Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
+### 3. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
+### 4. [Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
+### 5. [RNN](https://github.com/camillekokoko/RNN)<br>
+### 6. [Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
