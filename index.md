@@ -29,7 +29,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ![SQL](https://img.shields.io/badge/SQL-white?logo=mysql)
 
 
-Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analytics, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
+Spearheaded the enhancement of online sales and user experience as a data analyst/statistician, managing GA4 implementation, AB testing, and data analytics, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/scmp_ab_testing.jpg)
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/scmp_ab_testing_small.jpg)
