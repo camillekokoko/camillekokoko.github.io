@@ -18,6 +18,17 @@ Analyzing and presenting council-based analytics summaries on community services
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 ### 2. [E-commerce Optimization - AB Testing](pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
+Certainly! Here are five badges based on your format:
+
+[![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-15%25-brightgreen)](https://img.shields.io/badge/Conversion_Rate-15%25-brightgreen)
+
+[![User Engagement](https://img.shields.io/badge/User_Engagement-Targeted-blue)](https://img.shields.io/badge/User_Engagement-Targeted-blue)
+
+[![E-commerce Tracking](https://img.shields.io/badge/E_commerce_Tracking-Implemented-lightgrey)](https://img.shields.io/badge/E_commerce_Tracking-Implemented-lightgrey)
+
+[![GA4 Implementation](https://img.shields.io/badge/GA4_Implementation-Successful-ff69b4)](https://img.shields.io/badge/GA4_Implementation-Successful-ff69b4)
+
+[![AB Testing](https://img.shields.io/badge/AB_Testing-orange)](https://img.shields.io/badge/AB_Testing-orange)
 
 Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
