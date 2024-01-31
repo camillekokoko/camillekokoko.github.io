@@ -3,7 +3,8 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
 ---
 # Data Analytics and Visualisation
 
-### 1. [Reporting for 2021-2023 on Community Services within the City of Whyalla](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+### 1. Reporting for 2021-2023 on Community Services within the City of Whyalla
+
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![PowerBI](https://img.shields.io/badge/PowerBI-white?logo=powerbi)
 ![GA-UA](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
@@ -15,11 +16,11 @@ Analyzing and presenting council-based analytics summaries on community services
 
 ![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
+View [PowerBI dashboard of Whyalla 2022-2023](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 ---
-### 2. [E-commerce Optimization - AB Testing](pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
-Certainly! Here are five badges based on your format:
+### 2. E-commerce Optimization - AB Testing
 
 ![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-white?logo=box)
 ![User Engagement](https://img.shields.io/badge/User_Engagement-white?logo=interaction)
@@ -27,13 +28,11 @@ Certainly! Here are five badges based on your format:
 ![GA-4](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
 ![AB Testing](https://img.shields.io/badge/AB_Testing-white?logo=chart-bar)
 
-
-There isn't a specific universally recognized logo for "statistics." However, you can use a generic icon or image that represents data or charts to convey the concept of statistics. Here's an example:
-
 Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)
 
+View [winner analysis pdf]((pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf)
 
 ### [User Engagement Study]
 
