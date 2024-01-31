@@ -10,13 +10,14 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
 ![GA-UA](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
 ![CRM-Database](https://img.shields.io/badge/Database-white?logo=database)
 ![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
-![Excel](https://img.shields.io/badge/Excel-white?logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Excel-blue?logo=microsoft-excel)
 
 Analyzing and presenting council-based analytics summaries on community services and information demands offers valuable insights into the social and demographic needs of a council. This information empowers informed decision-making by identifying service gaps, ensuring equitable distribution, and facilitating the effective sharing of community grants, resources, and assets. The result is an enhancement in support systems and overall outcomes for the entire community.
 
 ![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
-View [PowerBI dashboard of Whyalla 2022-2023](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+<br>
+View the PowerBI dashboard of Whyalla 2022-202 at [this external link](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 ---
@@ -30,9 +31,11 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
-![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)<br>
+![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)
 
-View [winner analysis pdf]("pdf/Winner Analysis - AB Test 8 - Rearranging tabs _ Product Anchor (Detail _ Gallery _ Review Tab) on PDP.pdf")
+<br>
+
+View [winner analysis pdf](pdf/Winner_Analysis_AB_Test 8_Rearranging_tabs _ Product Anchor_on_PDP.pdf)
 
 ### [User Engagement Study]
 
