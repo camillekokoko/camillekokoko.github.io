@@ -76,6 +76,7 @@ This work is detailed in my thesis paper, highlighting the impactful role of Pyt
 <a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
 
 ---
+---
 # Machine Learning and Deep Learning
 ## 1. [Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
 ## 2. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
@@ -86,23 +87,24 @@ This work is detailed in my thesis paper, highlighting the impactful role of Pyt
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
+---
 # DevOps/MLOps/Cloud
 
--[Database](https://github.com/camillekokoko/Database)<br>
--[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
--[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
--[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
+## 1.[Database](https://github.com/camillekokoko/Database)<br>
+## 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
+## 3.[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
+## 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 
+---
 ---
 # Programming Language Proficiency
 
--[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
--[Java](https://github.com/camillekokoko/java_lang)<br>
--[C](https://github.com/camillekokoko/C_lang_picsine)<br>
--[Django](https://github.com/camillekokoko/my-first-blog)<br>
+## 1.[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
+## 2.[Java](https://github.com/camillekokoko/java_lang)<br>
+## 3.[C](https://github.com/camillekokoko/C_lang_picsine)<br>
+## 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
 ---
-
 
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R"><br>
