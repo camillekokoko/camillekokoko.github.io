@@ -111,7 +111,7 @@ View code [here](https://github.com/camillekokoko/SHAP_horse_racing)
 ---
 
 ### 3. Computer Vision
-Check out [code] (https://github.com/camillekokoko/Computer_Vision)
+Check out [code](https://github.com/camillekokoko/Computer_Vision)
 
 ---
 ### 4. Deep learning
