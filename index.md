@@ -10,7 +10,7 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
 ![GA-UA](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
 ![CRM-Database](https://img.shields.io/badge/Database-white?logo=database)
 ![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
-![Excel](https://img.shields.io/badge/Excel-blue?logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
 
 Analyzing and presenting council-based analytics summaries on community services and information demands offers valuable insights into the social and demographic needs of a council. This information empowers informed decision-making by identifying service gaps, ensuring equitable distribution, and facilitating the effective sharing of community grants, resources, and assets. The result is an enhancement in support systems and overall outcomes for the entire community.
 
@@ -23,7 +23,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ---
 ### 2. E-commerce Optimization - AB Testing
 
-![Conversion Rate](https://img.shields.io/badge/Conversion_Rate-blue?logo=box)
+![BigQuery]( https://img.shields.io/npm/v/npm.svg?logo=bigquery)
 ![User Engagement](https://img.shields.io/badge/User_Engagement-white?logo=interaction)
 ![E-commerce Tracking](https://img.shields.io/badge/E_commerce_Tracking-white?logo=shopping-cart)
 ![GA-4](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
