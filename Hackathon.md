@@ -43,6 +43,7 @@ Proposal: Our team at the Adelaide MedTech Hackathon is committed to combining c
 My Role: Contributed to developing innovative solutions for medical visual question answering.
 
 View the [slides](/pdf/Salud_MedAI.pdf) here. 
+
 ---
 breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
 
