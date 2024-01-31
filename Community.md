@@ -1,5 +1,4 @@
-# Breadcrumb
-You are viewing: Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md)
+Breadcrumb: You are viewing: Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md)
 
 ---
 
