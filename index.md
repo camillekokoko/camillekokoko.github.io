@@ -52,6 +52,18 @@ As the sole analyst and engineer, I independently implemented GA4 and conducted 
 Check out the code [here](https://github.com/camillekokoko/GA4)
 
 ---
+### 4. SEO 
+![tableau](https://img.shields.io/badge/tableau-white?logo=tableau)
+![social listening](https://img.shields.io/badge/social-listening-white)
+![SEO](https://img.shields.io/badge/seo-white)
+![excel](https://img.shields.io/badge/excel-green?logo=excel)
+![Python](https://img.shields.io/badge/Python-white?logo=python)
+![data studio](https://img.shields.io/badge/visualization-white?logo=looker)
+
+Throughout my role as a Reporting and Data Analyst, I excelled in optimizing SEO strategies and producing automated daily reports to meticulously measure and enhance overall performance. Achieved notable improvements in website visibility, engagement, and key performance indicators, contributing to data-driven decision-making processes.
+
+![SEO](images/seo_analysis.jpg)
+
 ---
 # AI Engineering
 
