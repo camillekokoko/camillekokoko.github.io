@@ -1,14 +1,21 @@
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
-Jump to:
-analytics-visual
-[AI Engineering](#ai-eng)
-[Machine Learning and Deep Learning](#mldl)
-[DevOps/MLOps/Cloud](#Ops-cloud)
-[Geographic Information System (GIS)](#gis)
-[Statistical Analysis](#stat-analysis)
-[Programming Language Proficiency](#programming-lang)
+Jump to: [AI Engineering](#ai-eng) |
+[Machine Learning and Deep Learning](#mldl) |
+[DevOps/MLOps/Cloud](#Ops-cloud) |
+[Geographic Information System (GIS)](#gis) | 
+[Statistical Analysis](#stat-analysis) | 
+[Programming Language Proficiency](#programming-lang) 
+
+| Jump To                       |
+|-------------------------------|
+| [AI Engineering](#ai-eng)      |
+| [Machine Learning and Deep Learning](#mldl) |
+| [DevOps/MLOps/Cloud](#Ops-cloud) |
+| [Geographic Information System (GIS)](#gis) |
+| [Statistical Analysis](#stat-analysis) |
+| [Programming Language Proficiency](#programming-lang) |
 
 ---
 # Data Analytics and Visualisation <a name="analytics-visual"></a>
