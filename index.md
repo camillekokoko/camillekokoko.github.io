@@ -16,7 +16,6 @@ Analyzing and presenting council-based analytics summaries on community services
 
 ![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
-<br>
 View the PowerBI dashboard of Whyalla 2022-202 at [this external link](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
@@ -34,25 +33,13 @@ Spearheaded the enhancement of online sales and user experience as an Analytic E
 
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/conversion_funnel_ab-testing.jpg)
 
-<br>
-
 View [the pdf of one of the winner analysis on rearranging tabs product anchor experiment](pdf/Winner_Analysis_AB_Test 8_Rearranging_tabs _ Product Anchor_on_PDP.pdf)
 
-### [User Engagement Study]
+### [User Journey and Engagement Study]
 
-- **Goal:** Understand user behavior and enhance content engagement.
-- **Role:** Led a team to implement GA4 and conduct data analysis.
-- **Achievements:**
-  - Utilized custom dimensions to categorize content for detailed analysis.
-  - Improved engagement metrics by 20% through data-driven content adjustments.
+As the sole analyst and engineer, I independently implemented GA4 and conducted comprehensive data analysis and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed content analysis and a 20% improvement in engagement metrics through data-driven content adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data analysis, and integration with platforms like Google BigQuery.
 
-## Key Skills
-
-- **GA4 Implementation:** Successfully implemented GA4 for various projects, ensuring accurate data collection and reporting.
-- **Event Tracking:** Proficient in tracking custom events to gain insights into user interactions.
-- **Audience Segmentation:** Expertise in creating and utilizing audience segments for targeted analysis.
-- **Data Analysis:** Skilled in extracting actionable insights from complex datasets using GA4.
-- **Integration:** Experience in integrating GA4 with other platforms, including Google BigQuery.
+View [code](https://github.com/camillekokoko/GA4)
 
 ---
 # AI Engineering
