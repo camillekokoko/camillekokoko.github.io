@@ -1,13 +1,11 @@
 ## You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
-### Data Analytics and Visualisation
-
-## role: data analyst with a strong background in utilizing Google Analytics 4 (GA4) and powerbi to derive actionable insights and drive business growth.
+1. Data Analytics and Visualisation
 
 ### [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
 - **Goal:** Increase online sales and improve user experience.
-- **Role:** Sole analyst responsible for implementing GA4 and analyzing data.
+- **Role:** Sole analyst responsible for implementing GA4 and analyzing data. data analyst with a strong background in utilizing Google Analytics 4 (GA4) and powerbi to derive actionable insights and drive business growth.
 - **Achievements:**
   - Increased conversion rate by 15% through targeted user engagement strategies.
   - Implemented advanced e-commerce tracking to monitor product performance.
@@ -37,7 +35,7 @@
 - **Integration:** Experience in integrating GA4 with other platforms, including Google BigQuery.
 
 ---
-### AI Engineering
+2. AI Engineering
 
 [EPA as a Predictor](/pdf/Lundeen_Final_Paper.pdf)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -55,7 +53,7 @@ statistics most highly correlate to Expected Points Added and look at any predic
 <a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
 
 ---
-### Machine Learning and Deep Learning
+3. Machine Learning and Deep Learning
 -[Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
 -[Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
 -[Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
@@ -65,7 +63,7 @@ statistics most highly correlate to Expected Points Added and look at any predic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
-### DevOps/MLOps/Cloud
+4. DevOps/MLOps/Cloud
 
 -[Database](https://github.com/camillekokoko/Database)<br>
 -[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
@@ -73,7 +71,7 @@ statistics most highly correlate to Expected Points Added and look at any predic
 -[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 
 ---
-### Programming Language Proficiency
+5. Programming Language Proficiency
 
 -[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
 -[Java](https://github.com/camillekokoko/java_lang)<br>
