@@ -3,7 +3,9 @@ breadcrumb > You are viewing : Tech Community | [Click me to Hackathon](/Hackath
 ---
 ## Conference
 ### AdelaideDDD2023
-![adelaideddd2023](images/IMG_2563.jpg)
+![adelaideddd2023](/images/IMG_2563.jpg)
+<img src="images/IMG_2563.jpg"/>
+
 AdelaideDDD2023 provided an excellent platform to dive deep into cutting-edge data-driven discussions. As a data enthusiast, I actively engaged in sessions focused on the latest trends in data analytics, machine learning, and artificial intelligence. My participation included:
 
 - **Analytical Insight:** Attending workshops on advanced data visualization techniques, contributing insights during panel discussions on data ethics, and privacy, and networking with industry experts to stay abreast of emerging technologies.
@@ -13,7 +15,8 @@ AdelaideDDD2023 provided an excellent platform to dive deep into cutting-edge da
 - **Continuous Learning:** Proactively leading a lightning talk on leveraging Python for data manipulation and analysis during PyCon2023 and attending in-depth sessions on optimizing Python code for data-intensive tasks.
 
 ### PyCon2023
-![pycon](images/IMG_1397.jpg)
+![pycon](/images/IMG_1397.jpg)
+<img src="images/IMG_1397.jpg"/>
 Participating in PyCon2023, a premier conference for Python enthusiasts, provided an immersive experience to showcase my data expertise:
 
 - **Technical Proficiency:** Attended workshops on advanced Python libraries for data analysis and machine learning, demonstrating proficiency in leveraging Python for data-driven solutions.
@@ -38,7 +41,7 @@ As an active member of 42 Adelaide, a coding community fostering collaborative l
 
 
 ### Code Like Girl
-![clg](images/clg.jpg) 
+![clg](/images/clg.jpg) 
 As a dedicated contributor to Code Like Girl, an organization empowering women in technology, I showcased my expertise and commitment in the following areas:
 
 - **Mentorship Programs:** Spearheaded mentorship programs focused on data science and analytics, providing guidance and support to aspiring women in technology, fostering an inclusive and supportive learning environment.
@@ -52,7 +55,9 @@ As a dedicated contributor to Code Like Girl, an organization empowering women i
 
 ### SACommunity / ConnectingUp / Infoxchange
 
-![sacom](images/IMG_3752.jpg)
+![sacom](/images/IMG_3752.jpg)
+<img src="images/IMG_3752.jpg"/>
+
 **Details:**
 My engagement with SACommunity, ConnectingUp, and Infoxchange showcased my ability to leverage data for community impact:
 
@@ -62,7 +67,7 @@ My engagement with SACommunity, ConnectingUp, and Infoxchange showcased my abili
 
 
 ### Microsoft Student Accelerator
-![microsoft](images/microsoft.jpeg) 
+![microsoft](/images/microsoft.jpeg) 
 As a participant in the Microsoft Student Accelerator program, I honed my skills and contributed to the data-centric projects, showcasing my abilities in the following areas:
 
 - **Project Collaboration:** Collaborated with a diverse team of students, leveraging collective strengths to address real-world challenges using data-driven solutions.
@@ -76,7 +81,9 @@ As a participant in the Microsoft Student Accelerator program, I honed my skills
 
 ### Breakfast Club @ Student Care @ Youx @ Uni Adelaide
 
-![breakfast club](images/IMG_3949.jpg)
+![breakfast club](/images/IMG_3949.jpg)
+<img src="images/IMG_3949.JPG"/>
+
 **Details:**
 As a participant in the Breakfast Club at Student Care, organized in collaboration with Youx and the University of Adelaide, I not only contributed to fostering a supportive community but also showcased my skills and soft skills in the following aspects:
 
@@ -104,9 +111,6 @@ Participated in the intensive Bootcamp at Akkodis, where I honed my data skills 
 
 - **Project Management:** Successfully managed and delivered individual and group projects within the specified timelines, demonstrating project management skills.
 
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
@@ -125,15 +129,6 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 ---
 breadcrumb > You are viewing : Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md) 
 
