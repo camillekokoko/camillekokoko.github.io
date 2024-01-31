@@ -8,7 +8,7 @@ breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | 
 
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
-![GIS](https://img.shields.io/badge/GIS-white)
+![GIS](https://img.shields.io/badge/gis-white)
 ![API](https://img.shields.io/badge/api-white)
 ![Github](https://img.shields.io/badge/github-white?logo=github)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
