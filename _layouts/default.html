@@ -22,8 +22,9 @@
 <body>
    <div id="progress-container">
       <div id="progress-bar"></div>
+      <div id="indicator"></div>
    </div>
-   
+
    <div class="wrapper">
       <header>
          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
@@ -60,12 +61,13 @@
 <script>
    document.addEventListener("DOMContentLoaded", function () {
       var progressBar = document.getElementById("progress-bar");
-      var progressContainer = document.getElementById("progress-container");
+      var indicator = document.getElementById("indicator");
 
       window.onscroll = function () {
          var totalHeight = document.body.scrollHeight - window.innerHeight;
          var progress = (window.scrollY / totalHeight) * 100;
          progressBar.style.width = progress + "%";
+         indicator.style.transform = "translateX(" + progress + "%)";
       };
 
       // Optional: Add a smooth scrolling effect
@@ -80,5 +82,6 @@
       });
    });
 </script>
+
 
 </html>
