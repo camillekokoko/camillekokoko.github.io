@@ -39,7 +39,7 @@ View [the pdf of one of the winner analysis on rearranging tabs product anchor e
 ---
 ### 3. User Journey and Engagement Study
 ![BigQuery](https://img.shields.io/badge/google--bigquery-white?logo=googlebigquery)
-![Google Cloud Platform](https://img.shields.io/badge/google__cloud__platform-white?logo=googlecloudplatform)
+![Google Cloud Platform](https://img.shields.io/badge/google--cloud--platform-white?logo=googlecloud)
 ![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![UIUX](https://img.shields.io/badge/UIUX-white?logo=uiux)
