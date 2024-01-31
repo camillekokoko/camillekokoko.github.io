@@ -1,4 +1,4 @@
-Breadcrumb: You are viewing: Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md)
+breadcrumb > You are viewing: Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md)
 
 ---
 
@@ -59,7 +59,7 @@ Participated in the intensive Bootcamp at Akkodis, where I honed my data skills 
 
 ---
 
-Breadcrumb: You are viewing - Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md)
+breadcrumb > You are viewing - Tech Community | [Click me to Hackathon](/Hackathon.md) | [Click me to Portfolio](/index.md)
 
 ---
 
