@@ -53,8 +53,9 @@ View the [slides](/pdf/Team_Orygen.pdf) here.
 ### Adelaide MedTech Hackathon by ThincLab: Salud MedAI
 
 ![python](https://img.shields.io/badge/python-white?logo=python)
+![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch)
 ![multimodal](https://img.shields.io/badge/multimodal-white)
-![information retrievel](https://img.shields.io/badge/information-retrievel-white)
+![information retrievel](https://img.shields.io/badge/information--retrievel-white)
 
 Participated in the Adelaide MedTech Hackathon which is an intensive innovation program that is open to all South Australian tertiary students and the general public with a focus on Healthcare Waste and Medical Dilemmas.
 
