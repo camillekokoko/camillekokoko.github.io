@@ -17,6 +17,12 @@ Jump to: [AI Engineering](#ai-eng) |
 | [Statistical Analysis](#stat-analysis) |
 | [Programming Language Proficiency](#programming-lang) |
 
+| Jump To                      |                              |                             |
+|------------------------------|--------------------------------------|--------------------------------------|
+| [AI Engineering](#ai-eng)     | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud)      |
+| [GIS](#gis)                   | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
+
+
 ---
 # Data Analytics and Visualisation <a name="analytics-visual"></a>
 
