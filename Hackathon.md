@@ -31,11 +31,7 @@ Our team is committed to addressing medical challenges by developing solutions f
 - [Data Visualization using Leaflet](https://rpubs.com/camillekokoko/nflstadiums)
 - [Data Visualization using Plotly](https://rpubs.com/camillekokoko/1029104)
 - [Reproducible Research](https://rpubs.com/camillekokoko/297611)
-- 
-## Community
-### 42 Adelaide
 
-### Code Like Girl
 ---
 breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
 
