@@ -56,11 +56,11 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 
 [Research Project: ](/pdf/Lundeen_Final_Paper.pdf)
 
-<img src="https://img.shields.io/badge/BERT?logo=bert">
-<img src="https://img.shields.io/badge/Pytorch?logo=pytorch">
-<img src="https://img.shields.io/badge/LLM?logo=llm">
-<img src="https://img.shields.io/badge/git?logo=git">
-<img src="https://img.shields.io/badge/VSCode?logo=visualstudiocode"><br>
+![BERT](https://img.shields.io/badge/BERT-black?logo=bert)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
+![LLM](https://img.shields.io/badge/LLM-black?logo=llm)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-black?logo=visualstudiocode)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
