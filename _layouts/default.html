@@ -20,10 +20,6 @@
   
 </head>
 <body>
-   <div id="progress-container">
-      <div id="progress-bar"></div>
-      <div id="indicator"></div>
-   </div>
 
    <div class="wrapper">
       <header>
@@ -58,30 +54,6 @@
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
-<script>
-   document.addEventListener("DOMContentLoaded", function () {
-      var progressBar = document.getElementById("progress-bar");
-      var indicator = document.getElementById("indicator");
-
-      window.onscroll = function () {
-         var totalHeight = document.body.scrollHeight - window.innerHeight;
-         var progress = (window.scrollY / totalHeight) * 100;
-         progressBar.style.width = progress + "%";
-         indicator.style.transform = "translateX(" + progress + "%)";
-      };
-
-      // Optional: Add a smooth scrolling effect
-      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-         anchor.addEventListener('click', function (e) {
-            e.preventDefault();
-
-            document.querySelector(this.getAttribute('href')).scrollIntoView({
-               behavior: 'smooth'
-            });
-         });
-      });
-   });
-</script>
 
 
 </html>
