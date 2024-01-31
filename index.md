@@ -80,11 +80,11 @@ This work is detailed in my thesis paper, highlighting the impactful role of Pyt
 ---
 ---
 # Machine Learning and Deep Learning
-## 1. [Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
-## 2. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
-## 3. [Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
-## 4. [RNN](https://github.com/camillekokoko/RNN)<br>
-## 5. [Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
+### 1. [Explainable AI with Shapley values](https://github.com/camillekokoko/SHAP_horse_racing)<br>
+### 2. [Computer Vision](https://github.com/camillekokoko/Computer_Vision)<br>
+### 3. [Deeplearning](https://github.com/camillekokoko/Deeplearning)<br>
+### 4. [RNN](https://github.com/camillekokoko/RNN)<br>
+### 5. [Small Object Detection](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJcAJ5dtSuc?si=jLGDZtHkqDHgYqVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -92,19 +92,19 @@ This work is detailed in my thesis paper, highlighting the impactful role of Pyt
 ---
 # DevOps/MLOps/Cloud
 
-## 1.[Database](https://github.com/camillekokoko/Database)<br>
-## 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
-## 3.[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
-## 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
+### 1.[Database](https://github.com/camillekokoko/Database)<br>
+### 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
+### 3.[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
+### 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 
 ---
 ---
 # Programming Language Proficiency
 
-## 1.[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
-## 2.[Java](https://github.com/camillekokoko/java_lang)<br>
-## 3.[C](https://github.com/camillekokoko/C_lang_picsine)<br>
-## 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
+### 1.[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
+### 2.[Java](https://github.com/camillekokoko/java_lang)<br>
+### 3.[C](https://github.com/camillekokoko/C_lang_picsine)<br>
+### 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
 ---
 
