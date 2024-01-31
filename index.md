@@ -208,13 +208,13 @@ View Code [here](/survey.R/model_selection.R)<br>
 ---
 # Programming Language Proficiency <a name="programming-lang"></a>
 
-### 1. [C# Programming](https://github.com/camillekokoko/C_sharp) ![C#](https://img.shields.io/badge/C%23-white?logo=c-sharp)
+### 1. [C# Programming](https://github.com/camillekokoko/C_sharp) ![C#](https://img.shields.io/badge/C%23-black?logo=c-sharp)
 
-### 2. [Java Programming](https://github.com/camillekokoko/java_lang) ![Java](https://img.shields.io/badge/Java-white?logo=java)
+### 2. [Java Programming](https://github.com/camillekokoko/java_lang) ![Java](https://img.shields.io/badge/Java-black?logo=java)
 
-### 3. [C Programming](https://github.com/camillekokoko/C_lang_picsine) ![C](https://img.shields.io/badge/C-white?logo=c)
+### 3. [C Programming](https://github.com/camillekokoko/C_lang_picsine) ![C](https://img.shields.io/badge/C-black?logo=c)
 
-### 4. [Django](https://github.com/camillekokoko/my-first-blog) ![Django](https://img.shields.io/badge/Django-white?logo=django)
+### 4. [Django](https://github.com/camillekokoko/my-first-blog) ![Django](https://img.shields.io/badge/Django-black?logo=django)
 
 
 ---
