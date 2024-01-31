@@ -4,13 +4,15 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
 # Data Analytics and Visualisation
 
 ### [Reporting for 2021-2023 on Community Services within the City of Whyalla](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
-<img src="https://img.shields.io/badge/Python-white?logo=PowerBI"> 
-<img src="https://img.shields.io/badge/Python-white?logo=GA-UA"> 
-<img src="https://img.shields.io/badge/Python-white?logo=CRM-Database">
-<img src="https://img.shields.io/badge/Python-white?logo=Canva"> 
-<img src="https://img.shields.io/badge/Python-white?logo=Advanced Excel"> 
+![Python](https://img.shields.io/badge/Python-white?logo=python)
+![PowerBI](https://img.shields.io/badge/PowerBI-white?logo=powerbi)
+![GA-UA](https://img.shields.io/badge/Google%20Analytics-white?logo=google-analytics)
+![CRM-Database](https://img.shields.io/badge/Database-white?logo=database)
+![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
+![Excel](https://img.shields.io/badge/Excel-white?logo=microsoft-excel)
 
 presenting council-based analytics summaries on community services and information demands provides an indication of the social and demographic needs of a council. The information can enable informed decision-making regarding service gaps, equitable distribution, and sharing of community grants, resources, and assets resulting in improved support and outcomes for the whole community.
+![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
