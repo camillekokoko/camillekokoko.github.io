@@ -1,4 +1,4 @@
-breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
+breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Portfolio](/index.md)
 
 ---
 
@@ -78,9 +78,7 @@ My Role: Contributed to developing innovative solutions for medical visual quest
 View the [slides](/pdf/Salud_MedAI.pdf) here. 
 
 ---
-breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
-
-
+breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Portfolio](/index.md)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attribute -->
