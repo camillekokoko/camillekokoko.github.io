@@ -8,7 +8,7 @@ breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | 
 
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
-![GIS](https://img.shields.io/badge/GIS)
+![GIS](https://img.shields.io/badge/GIS-white)
 ![API](https://img.shields.io/badge/api-white)
 ![Github](https://img.shields.io/badge/github-white?logo=github)
 ![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
@@ -46,10 +46,14 @@ Achievement: Orygen_Digital, our project, won the People's choice award!! We dev
 ![hack_orygen](images/hack_orygen.jpg)
 ![hack_orygen](images/hack_orygen1.jpg)
 
-View the [slides](/pdf/Salud_MedAI.pdf) here. 
+View the [slides](/pdf/Team_Orygen.pdf) here.
 ---
 
 ### Adelaide MedTech Hackathon by ThincLab: Salud MedAI
+
+![python](https://img.shields.io/badge/python-white?logo=python)
+![multimodal](https://img.shields.io/badge/multimodal-white)
+![information retrievel](https://img.shields.io/badge/information-retrievel-white)
 
 Participated in the Adelaide MedTech Hackathon which is an intensive innovation program that is open to all South Australian tertiary students and the general public with a focus on Healthcare Waste and Medical Dilemmas.
 
@@ -59,7 +63,7 @@ Proposal: Our team at the Adelaide MedTech Hackathon is committed to combining c
 
 My Role: Contributed to developing innovative solutions for medical visual question answering.
 
-View the [slides](/pdf/Team_Orygen.pdf) here. 
+View the [slides](/pdf/Salud_MedAI.pdf) here. 
 
 ---
 breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
