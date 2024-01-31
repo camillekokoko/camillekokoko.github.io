@@ -51,7 +51,7 @@ As a participant in the Microsoft Student Accelerator program, I honed my skills
 ---
 ### Breakfast Club @ Student Care @ Youx @ Uni Adelaide
 ![Breakfast Club](images/bfc.jpg)
-**Details:**
+
 As a staff member in the Breakfast Club at Student Care, alongside collaboration with Youx and the University of Adelaide, I not only contributed to fostering a supportive community but also showcased my skills and soft skills in Organizational Skills, Communication and Collaboration, and Leadership.
 
 ---
