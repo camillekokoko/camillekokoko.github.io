@@ -11,16 +11,7 @@ breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Communi
 ![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
 ![Excel](https://img.shields.io/badge/Excel-white?logo=microsoft-excel)
 
-**Tasks:**
-1. Conducted in-depth analysis of council-based analytics on community services and information demands.
-2. Examined social and demographic trends to identify specific needs within the council.
-3. Presented comprehensive analytics summaries to stakeholders, highlighting key insights.
-
-**Achievements:**
-1. Enabled informed decision-making by providing a clear understanding of service gaps within the community.
-2. Facilitated equitable distribution of resources and grants based on identified needs.
-3. Improved community support and outcomes through strategic sharing of assets and resources.
-4. Contributed to a holistic approach to addressing social and demographic challenges within the council.
+Analyzing and presenting council-based analytics summaries on community services and information demands offers valuable insights into the social and demographic needs of a council. This information empowers informed decision-making by identifying service gaps, ensuring equitable distribution, and facilitating the effective sharing of community grants, resources, and assets. The result is an enhancement in support systems and overall outcomes for the entire community.
 
 ![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
