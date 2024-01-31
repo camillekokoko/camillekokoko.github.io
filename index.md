@@ -29,7 +29,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ![SQL](https://img.shields.io/badge/SQL-white?logo=mysql)
 
 
-Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analysis, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
+Spearheaded the enhancement of online sales and user experience as an Analytic Engineer, managing GA4 implementation, AB testing, and data analytics, resulting in a remarkable 15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/scmp_ab_testing.jpg)
 ![Visualization of Conversion Funnel AB Testing Experimentataion](images/scmp_ab_testing_small.jpg)
@@ -44,7 +44,7 @@ View [the pdf of one of the winner analysis on rearranging tabs product anchor e
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![UIUX](https://img.shields.io/badge/UIUX-white?logo=uiux)
 
-As the sole analyst and engineer, I independently implemented GA4 and conducted comprehensive data analysis and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed product/web analytics and a 20% improvement in engagement metrics through data-driven UI/UX adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management, and integration with platforms like Google BigQuery.
+As the sole analyst and engineer, I independently implemented GA4 and conducted data modelling, extract-load-tranform (ELT) and metrics such as exit rate, view item rate, contributing % in new users, bounce rate, etc. to understand user behavior and enhance content engagement. Achievements include the proficient utilization of custom dimensions for detailed product/web analytics and a 20% improvement in engagement metrics through data-driven UI/UX adjustments. My expertise spans GA4 implementation, event tracking, audience segmentation, data warehouse management, and integration with platforms like Google BigQuery.
 
 ![Combine_ga4_bigquery_for insight](images/revenue_driver_ga4_bigquery.jpg)
 
@@ -54,18 +54,21 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ---
 # AI Engineering
 
-[EPA as a Predictor](/pdf/Lundeen_Final_Paper.pdf)
+[Research Project: ](/pdf/Lundeen_Final_Paper.pdf)
+
+<img src="https://img.shields.io/badge/BERT?logo=bert">
+<img src="https://img.shields.io/badge/Pytorch?logo=pytorch">
+<img src="https://img.shields.io/badge/LLM?logo=llm">
+<img src="https://img.shields.io/badge/git?logo=git">
+<img src="https://img.shields.io/badge/VSCode?logo=visualstudiocode"><br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/srKsCCE_l8Y?si=bRf246c0yIeZPqer" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br><br>
 Expected Points is an equivalence metric for American Football that has been around since the 1960's and was reborn in the 2000's. In this project, 
 I utilize the nflfastR data set, along with the ggplot2 and tidyverse packages to perform a regression analysis on the the data to determine what 
 statistics most highly correlate to Expected Points Added and look at any predictive value of the models.
 <br><br>
-<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
-<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
-<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
-<img src="https://img.shields.io/badge/nflfastR-blue?logo=R"><br>
+
 <a href="https://github.com/camillekokoko/exBERTSum">View exBERTSum's Code on GitHub</a><br>
 <a href="https://github.com/camillekokoko/exBERT">View exBERT's Code on GitHub</a>
 
