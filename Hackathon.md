@@ -6,6 +6,13 @@ breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | 
 
 ### GovHack 2023 Adelaide: RoosTrip
 
+![Python](https://img.shields.io/badge/Python-white?logo=python)
+![Canva](https://img.shields.io/badge/Canva-white?logo=canva)
+![GIS](https://img.shields.io/badge/GIS)
+![API](https://img.shields.io/badge/api-white)
+![Github](https://img.shields.io/badge/github-white?logo=github)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+
 Participated in the GovHack 2023, a 72-hour event focusing on data solutions using open government data competition.
 
 Challenge: Increase visitor expenditure through Smart Tourism + Highlight the diversity of South Australia’s tourism product through gamification
@@ -22,6 +29,11 @@ View the [code](/gov_hack_2023) here.
 
 ### Hack4Hope by Girl in Tech Australia: Orygen_Digital @ [MOST](https://www.orygen.org.au/Clinical-Care/Clinical-services/most/hellomost#:~:text=MOST%20is%20available%20to%20young,headspace%20centre%20or%20specialist%20service.)
 
+![figma](https://img.shields.io/badge/figma-white?logo=figma)
+![UXUI](https://img.shields.io/badge/UXUI-white)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![Opencv](https://img.shields.io/badge/Opencv-white)
+
 Challenge: App Revamp for Enhanced User Engagement (Teenagers with Mental Illness in Australia) 
 
 Proposal: Our objective is to transform the current app to create a more engaging and supportive environment for teenagers dealing with mental illness in Australia. The revamped app will prioritize user-friendly interfaces, personalized features, and seamless access to mental health resources. Through this initiative, we aim to significantly enhance user engagement and contribute to the well-being of the target demographic.
@@ -31,7 +43,10 @@ My Role: Contributing to the technical implementation of the app revamp, activel
 Achievement: Orygen_Digital, our project, won the People's choice award!! We developed an MVP that includes innovative features like a text-based chatbot for emotional expression and a graphic story builder for visual communication, along with the potential for leveraging generative AI for text-to-image transformation.
 
 ![Our awesome group](images/1697422610153.jpg)
+![hack_orygen](images/hack_orygen.jpg)
+![hack_orygen](images/hack_orygen1.jpg)
 
+View the [slides](/pdf/Salud_MedAI.pdf) here. 
 ---
 
 ### Adelaide MedTech Hackathon by ThincLab: Salud MedAI
@@ -44,7 +59,7 @@ Proposal: Our team at the Adelaide MedTech Hackathon is committed to combining c
 
 My Role: Contributed to developing innovative solutions for medical visual question answering.
 
-View the [slides](/pdf/Salud_MedAI.pdf) here. 
+View the [slides](/pdf/Team_Orygen.pdf) here. 
 
 ---
 breadcrumb > You are viewing : Hackathon | [Click me to Portfolio](/index.md) | [Click me to Tech Community](/Community.md)
