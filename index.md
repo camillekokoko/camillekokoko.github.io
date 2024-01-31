@@ -55,7 +55,7 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ---
 # AI Engineering
 
-1. Leveraging large language model with domain adaptation: enhancing community directories with deep learning text summarization for machine-readable cataloging (MARC) standard description notes
+### 1. Leveraging large language model with domain adaptation: enhancing community directories with deep learning text summarization for machine-readable cataloging (MARC) standard description notes
 
 ![BERT](https://img.shields.io/badge/BERT-white?logo=bert)
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?logo=pytorch)
