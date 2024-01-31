@@ -36,6 +36,8 @@ Achievement: Orygen_Digital, our project, won the People's choice award!! We dev
 
 ### Adelaide MedTech Hackathon by ThincLab: Salud MedAI
 
+Participated in the Adelaide MedTech Hackathon which is an intensive innovation program that is open to all South Australian tertiary students and the general public with a focus on Healthcare Waste and Medical Dilemmas.
+
 Challenge: Develop solutions for medical visual question answering to address medical challenges.
 
 Proposal: Our team at the Adelaide MedTech Hackathon is committed to combining computer vision and natural language processing modalities to address medical challenges through Salud MedAI.
