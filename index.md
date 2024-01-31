@@ -16,7 +16,7 @@ Analyzing and presenting council-based analytics summaries on community services
 
 ![PowerBI Whyalla 2022-2023](images/Whyalla 2022 - 2023 700.jpg)
 
-View the PowerBI dashboard of Whyalla 2022-202 at [this external link](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
+View the PowerBI dashboard of Whyalla 2022-2023 at [this external link](https://app.powerbi.com/view?r=eyJrIjoiMGU2NDEzNzAtOWZlMy00YzcyLWE5ZjMtNTAzZWYxN2MyYmIxIiwidCI6IjUwY2UwYzQ2LWNmMjctNDQwZi04YWQ3LWY5YzBiOGJmNmQyZiIsImMiOjEwfQ%3D%3D)<br>
 View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 
 ---
