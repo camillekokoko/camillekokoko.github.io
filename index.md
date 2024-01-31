@@ -1,7 +1,17 @@
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
 
 ---
-# Data Analytics and Visualisation
+Jump to:
+analytics-visual
+[AI Engineering](#ai-eng)
+[Machine Learning and Deep Learning](#mldl)
+[DevOps/MLOps/Cloud](#Ops-cloud)
+[Geographic Information System (GIS)](#gis)
+[Statistical Analysis](#stat-analysis)
+[Programming Language Proficiency](#programming-lang)
+
+---
+# Data Analytics and Visualisation <a name="analytics-visual"></a>
 
 ### 1. Reporting for 2021-2023 on Community Services within the City of Whyalla
 
@@ -65,7 +75,7 @@ Throughout my role as a Reporting and Data Analyst, I excelled in optimizing SEO
 ![SEO](images/seo_analysis.jpg)
 
 ---
-# AI Engineering
+# AI Engineering <a name="ai-eng"></a>
 
 ### 1. Leveraging large language model with domain adaptation: enhancing community directories with deep learning text summarization for machine-readable cataloging (MARC) standard description notes
 
@@ -99,7 +109,8 @@ Python and PyTorch served as the primary languages, complemented by SQL for data
 
 ---
 ---
-# Machine Learning and Deep Learning
+# Machine Learning and Deep Learning <a name="mldl"></a>
+
 ### 1. Optimizing User Personas in Newspapers: A Machine Learning Approach with K-means and Random Forest Models
 ![BigQuery](https://img.shields.io/badge/google--bigquery-white?logo=googlebigquery)
 ![Google Cloud Platform](https://img.shields.io/badge/google--cloud--platform-white?logo=googlecloud)
@@ -159,12 +170,11 @@ This is one of the computer vision I have done during my research and pursuit of
     ></iframe>
 </div>
 
-
 Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)
 
 ---
 ---
-# DevOps/MLOps/Cloud
+# DevOps/MLOps/Cloud <a name="Ops-cloud"></a>
 
 ### 1.[Database](https://github.com/camillekokoko/Database)<br>
 ### 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
@@ -174,9 +184,15 @@ Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/
 
 ---
 ---
-# Geographic Information System (GIS)
+# Geographic Information System (GIS) <a name="gis"></a>
 
-# Statistical Analysis
+
+
+
+---
+---
+
+# Statistical Analysis <a name="stat-analysis"></a>
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
 <img src="https://img.shields.io/badge/ggplot2-blue?logo=R"><br>
 <img src="https://img.shields.io/badge/tidyverse-blue?logo=R"><br>
@@ -188,20 +204,27 @@ Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/
 View Code [here](/survey.R/Statistical_Modelling_n_Inference_1.R)<br>
 View Code [here](/survey.R/anova.R)<br>
 
-
 ![stat](images/STAT.jpg)
 View Code [here](/survey.R/model_selection.R)<br>
 
 ---
 ---
-# Programming Language Proficiency
+# Programming Language Proficiency <a name="programming-lang"></a>
 
 ### 1.[C_sharp](https://github.com/camillekokoko/C_sharp)<br>
 ### 2.[Java](https://github.com/camillekokoko/java_lang)<br>
 ### 3.[C](https://github.com/camillekokoko/C_lang_picsine)<br>
 ### 4.[Django](https://github.com/camillekokoko/my-first-blog)<br>
 
+---
+Jump to:
 
+[Statistical Analysis](#stat-analysis)
+[Geographic Information System (GIS)](#gis)
+[DevOps/MLOps/Cloud](#Ops-cloud)
+[Machine Learning and Deep Learning](#mldl)
+[AI Engineering](#ai-eng)
+[Data Analytics and Visualisation](#analytics-visual)
 
 ---
 breadcrumb > You are viewing : Portfolio | [Click me to Tech Community](/Community.md) | [Click me to Hackathon](/Hackathon.md)
