@@ -191,11 +191,11 @@ Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/
 
 # Statistical Analysis <a name="stat-analysis"></a>
 <img src="https://img.shields.io/badge/RStudio-white?logo=RStudio">
-<img src="https://img.shields.io/badge/ggplot2-blue?logo=R"><br>
-<img src="https://img.shields.io/badge/tidyverse-blue?logo=R"><br>
-<img src="https://img.shields.io/badge/magrittr-blue?logo=R"><br>
-<img src="https://img.shields.io/badge/anova-blue?logo=R"><br>
-<img src="https://img.shields.io/badge/lm-blue?logo=R"><br>
+<img src="https://img.shields.io/badge/ggplot2-blue?logo=R">
+<img src="https://img.shields.io/badge/tidyverse-blue?logo=R">
+<img src="https://img.shields.io/badge/magrittr-blue?logo=R">
+<img src="https://img.shields.io/badge/anova-blue?logo=R">
+<img src="https://img.shields.io/badge/lm-blue?logo=R">
 
 ![summary](images/summary.jpg)
 View Code [here](/survey.R/Statistical_Modelling_n_Inference_1.R)<br>
