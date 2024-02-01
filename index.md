@@ -1,11 +1,12 @@
-**breadcrumb > You are viewing : Portfolio** | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
+breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
 
 ---
 
-| Navigate To Anchor:                  |                              |                             |
-|------------------------------|--------------------------------------|--------------------------------------|
-| [AI Engineering](#ai-eng)     | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud)      |
-| [GIS](#gis)                   | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
+| <span style="font-weight:normal;">Navigate To Anchor:</span> |                                  |                                 |
+| ------------------------------ | -------------------------------- | --------------------------------- |
+| [AI Engineering](#ai-eng)       | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud) |
+| [GIS](#gis)                     | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
+
 
 ---
 # Data Analytics and Visualisation <a name="analytics-visual"></a>
@@ -219,13 +220,13 @@ View Code [here](/survey.R/model_selection.R)<br>
 
 ---
 
-|  Navigate To Anchor:                                 |                                      |                                    |
+|  <span style="font-weight:normal;">Navigate To Anchor:</span>                                |                                      |                                    |
 |--------------------------------------|--------------------------------------|------------------------------------|
 | [Statistical Analysis](#stat-analysis)| [Geographic Information System (GIS)](#gis) | [DevOps/MLOps/Cloud](#Ops-cloud)  |
 | [Machine Learning and Deep Learning](#mldl)| [AI Engineering](#ai-eng)          | [Data Analytics and Visualization](#analytics-visual) |
 
 ---
-**breadcrumb > You are viewing : Portfolio** | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
+breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
