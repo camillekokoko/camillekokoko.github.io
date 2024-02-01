@@ -143,7 +143,7 @@ My Role: Contributed to developing innovative solutions for medical visual quest
 View the [slides](/pdf/Salud_MedAI.pdf) here. 
 
 ---
-# [Certificates/Awards](#certificate_award)
+# Certificates/Awards <a name="certificate_award"></a>
 
 
 Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
