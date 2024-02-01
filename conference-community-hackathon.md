@@ -144,7 +144,7 @@ View the [slides](/pdf/Salud_MedAI.pdf) here.
 
 ---
 
-# [Certificates and Awards](#certifcate)
+# [Certificates and Awards](#certificate)
 
 
 Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
