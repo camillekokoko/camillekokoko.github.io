@@ -2,11 +2,21 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
 
 ---
 
-| Navigate To Anchor:            |                                  |                                 |
-| :---------------------------: | -------------------------------- | --------------------------------- |
-| [AI Engineering](#ai-eng)      | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud) |
-| [GIS](#gis)                    | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
-
+<table>
+  <tr>
+    <th colspan="3" style="text-align:center;">Navigate To Anchor:</th>
+  </tr>
+  <tr>
+    <td>[AI Engineering](#ai-eng)</td>
+    <td>[Machine Learning and Deep Learning](#mldl)</td>
+    <td>[DevOps/MLOps/Cloud](#Ops-cloud)</td>
+  </tr>
+  <tr>
+    <td>[GIS](#gis)</td>
+    <td>[Statistical Analysis](#stat-analysis)</td>
+    <td>[Programming Language Proficiency](#programming-lang)</td>
+  </tr>
+</table>
 
 ---
 # Data Analytics and Visualisation <a name="analytics-visual"></a>
