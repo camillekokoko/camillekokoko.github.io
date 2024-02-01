@@ -13,7 +13,7 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
   </tr>
   <tr>
     <td> <a href="#gis">GIS</a></td>
-    <td> <a href="#stat-analysis">Statistical Analysis]</a></td>
+    <td> <a href="#stat-analysis">Statistical Analysis</a></td>
     <td> <a href="#programming-lang">Programming Language Proficiency</a></td>
   </tr>
 </table>
