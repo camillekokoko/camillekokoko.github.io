@@ -36,7 +36,7 @@ Infoxchange staff were invited in-person to the 2023 Australian Digital Inclusio
 ---
 
 ### 42 Adelaide
-![42](images/42.jpg)
+![42](images/42.JPG)
 As an active member of 42 Adelaide, a coding community fostering collaborative learning, I showcased my software engineering skills through project collaboration, time management, and programming projects.
 
 ---
