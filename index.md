@@ -4,7 +4,7 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
 
 <table>
   <tr>
-    <th colspan="3" style="text-align:center;">Navigate To Anchor:</th>
+    <th colspan="3" style="text-align:center;font-weight:normal;">Navigate To Anchor:</th>
   </tr>
   <tr>
     <td>[AI Engineering](#ai-eng)</td>
