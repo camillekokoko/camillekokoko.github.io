@@ -12,9 +12,9 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
     <td> <a href="#Ops-cloud">DevOps/MLOps/Cloudg</a></td>
   </tr>
   <tr>
-    <td>[GIS](#gis)</td>
-    <td>[Statistical Analysis](#stat-analysis)</td>
-    <td>[Programming Language Proficiency](#programming-lang)</td>
+    <td> <a href="#gis">GIS</a></td>
+    <td> <a href="#stat-analysis">Statistical Analysis]</a></td>
+    <td> <a href="#programming-lang">Programming Language Proficiency</a></td>
   </tr>
 </table>
 
