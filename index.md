@@ -181,6 +181,11 @@ This is one of the computer vision I have done during my research and pursuit of
 Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/Concepts_AI_5mins_video_code.ipynb)
 
 ---
+
+### 7. Identify Playtus - Endangered Animal - using Computer Vision
+
+View [pdf](pdf/computervision_sieman_model.pdf)
+
 ---
 # DevOps/MLOps/Cloud <a name="Ops-cloud"></a>
 
