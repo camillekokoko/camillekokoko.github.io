@@ -12,11 +12,11 @@ description: >
   <br><br>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,py,pytorch,tensorflow,mysql,r,java,git,firebase,docker,django,html,css,c,cs,cpp,bash,anaconda&perline=10" alt="My Skills">
   <br><br>
-  <img src="images/aws-cp.png" alt="Certified AWS Cloud Practitioner (CLF-C01)" width="50" height="50">
-  <img src="images/azure-dp100.png" alt="Certified Microsoft Azure Data Fundamentals (DP-100)" width="50" height="50">
-  <img src="images/azure-ai900.png" alt="Certified Microsoft Azure AI Fundamentals (AI-900)" width="50" height="50">
-  <img src="images/tableau-ds.png" alt="Certified Tableau Scientist" width="50" height="50">
-  <img src="images/tableau-da.png" alt="Certified Tableau Analyst" width="50" height="50">
+  <img src="images/aws-cp.png" alt="Certified AWS Cloud Practitioner (CLF-C01)" width="20" height="20">
+  <img src="images/azure-dp100.png" alt="Certified Microsoft Azure Data Fundamentals (DP-100)" width="20" height="20">
+  <img src="images/azure-ai900.png" alt="Certified Microsoft Azure AI Fundamentals (AI-900)" width="20" height="20">
+  <img src="images/tableau-ds.png" alt="Certified Tableau Scientist" width="20" height="20">
+  <img src="images/tableau-da.png" alt="Certified Tableau Analyst" width="20" height="20">
 
   <a href="https://www.linkedin.com/in/camilleko/">View My LinkedIn Profile</a> 
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
