@@ -1,4 +1,4 @@
-breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
+**breadcrumb > You are viewing : Portfolio** | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
 <!-- HTML and JavaScript code for a simple counter -->
 <div id="counter">0</div>
 
@@ -19,7 +19,7 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
 
 ---
 
-| Navigate To Anchor:                   |                              |                             |
+| Navigate To Anchor:                  |                              |                             |
 |------------------------------|--------------------------------------|--------------------------------------|
 | [AI Engineering](#ai-eng)     | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud)      |
 | [GIS](#gis)                   | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
@@ -242,7 +242,7 @@ View Code [here](/survey.R/model_selection.R)<br>
 | [Machine Learning and Deep Learning](#mldl)| [AI Engineering](#ai-eng)          | [Data Analytics and Visualization](#analytics-visual) |
 
 ---
-breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
+**breadcrumb > You are viewing : Portfolio** | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
