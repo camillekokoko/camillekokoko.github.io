@@ -149,11 +149,11 @@ View the [slides](/pdf/Salud_MedAI.pdf) here.
 
 Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
 
-![Certified AWS Cloud Practitioner (CLF-C01)](images/aws-cp.png)
-![Certified Microsoft Azure Data Fundamentals (DP-100)](images/azure-dp100.png)
-![Certified Microsoft Azure AI Fundamentals (AI-900)](images/azure-ai900.png)
-![Certified Tableau Scientist](images/tableau-ds.png)
-![Certified Tableau Analyst](images/tableau-da.png)
+<img src="images/aws-cp.png" alt="Certified AWS Cloud Practitioner (CLF-C01)" width="150" height="150">
+<img src="images/azure-dp100.png" alt="Certified Microsoft Azure Data Fundamentals (DP-100)" width="150" height="150">
+<img src="images/azure-ai900.png" alt="Certified Microsoft Azure AI Fundamentals (AI-900)" width="150" height="150">
+<img src="images/tableau-ds.png" alt="Certified Tableau Scientist" width="150" height="150">
+<img src="images/tableau-da.png" alt="Certified Tableau Analyst" width="150" height="150">
 
 
 ---
