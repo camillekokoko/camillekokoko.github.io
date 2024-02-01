@@ -2,10 +2,17 @@ breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Por
 
 ---
 
-| Navigate To Anchor:                   |                              |                             |
-|------------------------------|--------------------------------------|--------------------------------------|
-| [Community](#community)     | [Hackathon](#hackathon) | [Certificates/Awards](#certificate_award)      |
-
+<table>
+  <tr>
+    <th colspan="3" style="text-align:center;font-weight:normal;">Navigate To Anchor:</th>
+  </tr>
+  <tr>
+    <td> <a href="#community">Community</a></td>
+    <td> <a href="#hackathon">Hackathon</a></td>
+    <td> <a href="#certificate_award">Certificates/Awards</a></td>
+  </tr>
+ 
+</table>
 
 ---
 
