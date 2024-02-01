@@ -1,22 +1,4 @@
 **breadcrumb > You are viewing : Portfolio** | [Click me to Conference-Community-Hackathon](/conference-community-hackathon.md) 
-<!-- HTML and JavaScript code for a simple counter -->
-<div id="counter">0</div>
-
-<script>
-  var count = 0;
-
-  // Function to increment the counter
-  function incrementCounter() {
-    count++;
-    document.getElementById('counter').innerHTML = count;
-  }
-
-  // Increment the counter when the page loads
-  window.onload = function () {
-    incrementCounter();
-  };
-</script>
-
 ---
 
 | Navigate To Anchor:                  |                              |                             |
