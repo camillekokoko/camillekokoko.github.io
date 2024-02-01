@@ -4,7 +4,7 @@ breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Por
 
 | Navigate To Anchor:                   |                              |                             |
 |------------------------------|--------------------------------------|--------------------------------------|
-| [Community](#community)     | [Hackathon](#hackathon) | [Certificates/Awards](#certificate)      |
+| [Community](#community)     | [Hackathon](#hackathon) | [Certificates/Awards](#certificate_award)      |
 
 
 ---
@@ -143,8 +143,7 @@ My Role: Contributed to developing innovative solutions for medical visual quest
 View the [slides](/pdf/Salud_MedAI.pdf) here. 
 
 ---
-
-# [Certificates/Awards](#certificate)
+# [Certificates/Awards](#certificate_award)
 
 
 Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
