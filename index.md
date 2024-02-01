@@ -7,9 +7,9 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
     <th colspan="3" style="text-align:center;font-weight:normal;">Navigate To Anchor:</th>
   </tr>
   <tr>
-    <td>[AI Engineering](#ai-eng)</td>
-    <td>[Machine Learning and Deep Learning](#mldl)</td>
-    <td>[DevOps/MLOps/Cloud](#Ops-cloud)</td>
+    <td> <a href="#ai-eng">AI Engineering</a></td>
+    <td> <a href="#mldl">Machine Learning and Deep Learning</a></td>
+    <td> <a href="#Ops-cloud">DevOps/MLOps/Cloudg</a></td>
   </tr>
   <tr>
     <td>[GIS](#gis)</td>
