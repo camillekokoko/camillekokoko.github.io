@@ -4,7 +4,7 @@ breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Por
 
 | Navigate To Anchor:                   |                              |                             |
 |------------------------------|--------------------------------------|--------------------------------------|
-| [Community](#community)     | [Hackathon](#hackathon) | [Certificate](#certificate)      |
+| [Community](#community)     | [Hackathon](#hackathon) | [Certificates and Awards](#certificate)      |
 
 
 ---
@@ -146,6 +146,16 @@ View the [slides](/pdf/Salud_MedAI.pdf) here.
 
 # [Certificates and Awards](#certifcate)
 
+
+Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
+
+![Certified AWS Cloud Practitioner (CLF-C01)](images/aws-cp.png)
+![Certified Microsoft Azure Data Fundamentals (DP-100)](images/azure-dp100.png)
+![Certified Microsoft Azure AI Fundamentals (AI-900)](images/azure-ai900.png)
+![Certified Tableau Scientist](images/tableau-ds.png)
+![Certified Tableau Analyst](images/tableau-da.png)
+
+
 ---
 
 | Navigate To Anchor:                   |                              |                             |
@@ -155,6 +165,7 @@ View the [slides](/pdf/Salud_MedAI.pdf) here.
 ---
 
 breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Portfolio](/index.md)
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attribute -->
