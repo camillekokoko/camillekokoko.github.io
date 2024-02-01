@@ -2,7 +2,14 @@ breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Por
 
 ---
 
-## Conference
+| Navigate To Anchor:                   |                              |                             |
+|------------------------------|--------------------------------------|--------------------------------------|
+| [Community](#community)     | [Hackathon](#hackathon) | [Certificate](#certificate)      |
+
+
+---
+
+# [Conference](#conference)
 
 ---
 ### DDDAdelaide2023
@@ -24,7 +31,7 @@ Infoxchange staff were invited in-person to the 2023 Australian Digital Inclusio
 
 ---
 
-## Community
+# [Community](#community)
 
 ---
 
@@ -58,7 +65,9 @@ As a staff member in the Breakfast Club at Student Care, alongside collaboration
 Participated in the intensive Bootcamp at Akkodis, where I honed my data skills and demonstrated proficiency by earning a certificate on Azure.
 
 ---
-## Hackathon 
+# [Hackathon](#hackathon)
+
+---
 
 ### GovHack 2023 Adelaide: RoosTrip
 
@@ -134,6 +143,17 @@ My Role: Contributed to developing innovative solutions for medical visual quest
 View the [slides](/pdf/Salud_MedAI.pdf) here. 
 
 ---
+
+# [Certificates and Awards](#certifcate)
+
+---
+
+| Navigate To Anchor:                   |                              |                             |
+|------------------------------|--------------------------------------|--------------------------------------|
+| [Conference](#conference) | [Community](#community)     | [Hackathon](#hackathon) |   
+
+---
+
 breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Portfolio](/index.md)
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
