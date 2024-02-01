@@ -3,7 +3,8 @@ breadcrumb > You are viewing : Portfolio | [Click me to Conference-Community-Hac
 ---
 
 | <span style="font-weight:normal;">Navigate To Anchor:</span> |                                  |                                 |
-| :-----------------------------------------: |--------------------------|---------------------------- |
+| :-----------------------------: | -------------------------------- | --------------------------------- |
+
 | [AI Engineering](#ai-eng)       | [Machine Learning and Deep Learning](#mldl) | [DevOps/MLOps/Cloud](#Ops-cloud) |
 | [GIS](#gis)                     | [Statistical Analysis](#stat-analysis) | [Programming Language Proficiency](#programming-lang) |
 
