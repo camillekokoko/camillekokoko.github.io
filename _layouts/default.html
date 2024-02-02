@@ -41,6 +41,9 @@
             <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
          </ul>
          {% endif %}
+
+         <!-- Dark Mode Toggle Button -->
+         <button id="toggle-dark-mode">Toggle Dark Mode</button>
       </header>
       <section>
          {{ content }}
@@ -53,7 +56,32 @@
       </footer>
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+
+   <script>
+     document.addEventListener('DOMContentLoaded', (event) => {
+       const darkModeToggle = document.getElementById('toggle-dark-mode');
+       const body = document.body;
+   
+       // Check if the user has a preference for dark mode
+       const prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+   
+       // Set initial mode based on user preference
+       if (prefersDarkMode) {
+         body.classList.add('dark-mode');
+       }
+   
+       // Toggle dark mode on button click
+       darkModeToggle.addEventListener('click', () => {
+         body.classList.toggle('dark-mode');
+       });
+     });
+   </script>
+
+
+   
 </body>
 
 
 </html>
+
