@@ -9,11 +9,14 @@ h1 a, h1 a:visited {
 }
 
 
-body.dark-mode h1 {
-  color: #ffe600; 
+body.dark-mode p {
+  color: #ffffff; 
 }
 
-body.dark-mode h3 {
-  color: #ffe600; 
+body.dark-mode a {
+  color: #ffffff; 
 }
 
+body.dark-mode li {
+  color: #ffffff; 
+}
