@@ -70,11 +70,15 @@
        // Set initial mode based on user preference
        if (prefersDarkMode) {
          body.classList.add('dark-mode');
+         darkModeToggle.textContent = 'Toggle Light Mode';
+
        }
    
        // Toggle dark mode on button click
        darkModeToggle.addEventListener('click', () => {
          body.classList.toggle('dark-mode');
+         darkModeToggle.textContent = body.classList.contains('dark-mode') ? 'Toggle Light Mode' : 'Toggle Dark Mode';
+
        });
      });
    </script>
