@@ -31,3 +31,18 @@ body.dark-mode th {
 body.dark-mode li {
   color: #ffffff; 
 }
+
+.toggle-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 8px 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.toggle-button:hover {
+  background-color: #ffffff;
+  color: #1a1a1a;
+  border-color: #1a1a1a;
+}
