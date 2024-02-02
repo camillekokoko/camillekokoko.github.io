@@ -24,6 +24,10 @@ body.dark-mode a {
   color: #ffffff; 
 }
 
+body.dark-mode th {
+  color: #ffffff; 
+}
+
 body.dark-mode li {
   color: #ffffff; 
 }
