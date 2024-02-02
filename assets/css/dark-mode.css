@@ -33,16 +33,16 @@ body.dark-mode li {
 }
 
 .toggle-button {
-  background-color: transparent;
-  color: #ffffff;
-  border: 1px solid #ffffff;
-  padding: 8px 16px;
+  background-color: #333; /* Dark background color */
+  color: #fff; /* White text color */
+  border: 1px solid #333; /* Dark border color */
+  padding: 10px 20px; /* Padding for the button */
   cursor: pointer;
+  border-radius: 5px; /* Rounded corners */
   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
 }
 
 .toggle-button:hover {
-  background-color: #ffffff;
-  color: #1a1a1a;
-  border-color: #1a1a1a;
+  background-color: #555; /* Darker background color on hover */
+  border-color: #555; /* Darker border color on hover */
 }
