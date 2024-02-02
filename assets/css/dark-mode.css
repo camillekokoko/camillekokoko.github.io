@@ -21,7 +21,7 @@ body.dark-mode p {
 }
 
 body.dark-mode a {
-  color: #ffffff; 
+  color: #0099ff; /* Set hyperlink color in dark mode */
 }
 
 body.dark-mode th {
