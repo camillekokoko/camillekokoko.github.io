@@ -1,4 +1,12 @@
+/* dark-mode.css */
 body.dark-mode {
   background-color: #1a1a1a;
   color: #ffffff;
 }
+
+h1 a, h1 a:visited {
+  color: #ffffff; /* Change the color of the title/link in dark mode */
+}
+
+/* Add more dark mode styles as needed */
+
