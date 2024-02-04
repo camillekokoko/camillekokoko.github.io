@@ -4,10 +4,6 @@ body.dark-mode {
   color: #ffffff;
 }
 
-h1 a, h1 a:visited {
-  color: #ffffff;
-}
-
 body.dark-mode h1 {
   color: #ffffff; 
 }
