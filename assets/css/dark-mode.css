@@ -28,7 +28,15 @@ body.dark-mode li {
   color: #ffffff; 
 }
 
-.toggle-button {
+@media (prefers-color-scheme: light) {
+  /* Light mode styles */
+  body {
+    background-color: #ffffff; /* white background */
+    color: #000000; /* black text */
+  }
+}
+
+/* .toggle-button {
   background-color: #333; /* Dark background color */
   color: #fff; /* White text color */
   border: 1px solid #333; /* Dark border color */
@@ -42,3 +50,4 @@ body.dark-mode li {
   background-color: #555; /* Darker background color on hover */
   border-color: #555; /* Darker border color on hover */
 }
+ */
