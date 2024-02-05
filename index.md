@@ -192,7 +192,7 @@ View [pdf](pdf/computervision_sieman_model.pdf)
 ### 1.[Database](https://github.com/camillekokoko/Database)<br>
 ### 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
 ### 3.Cloud Engineering on AWS EC2 and Docker
-<img src="https://img.shields.io/badge/docker-white"> <img src="https://img.shields.io/badge/aws-white?logo=aws"> <img src="https://img.shields.io/badge/git?logo=git"> <img src="https://img.shields.io/badge/linux?logo=linux"> 
+<img src="https://img.shields.io/badge/docker-white"> <img src="https://img.shields.io/badge/aws-white?logo=aws"> <img src="https://img.shields.io/badge/git-white?logo=git"> <img src="https://img.shields.io/badge/linux-white?logo=linux"> 
 
 architecture: 
 ![architecture](images/AWS_framework.jpeg)
