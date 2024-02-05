@@ -199,7 +199,7 @@ View [pdf](pdf/computervision_sieman_model.pdf)
 <img src="https://img.shields.io/badge/aws-white?logo=aws">
 <img src="https://img.shields.io/badge/SQL-white?logo=sql">
 
-![Snowflake](https://github.com/camillekokoko/images/snowflake.img)
+![Snowflake](https://github.com/camillekokoko/images/snowflake.jpg)
 credit: snowflake
 
 Check out [code](https://github.com/camillekokoko/)
