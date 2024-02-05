@@ -195,9 +195,10 @@ View [pdf](pdf/computervision_sieman_model.pdf)
 ### 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 ### 5.Snowflake
 
-<img src="https://img.shields.io/badge/Snowflake-white?logo=snowflake"><img src="https://img.shields.io/badge/aws-white?logo=aws"><img src="https://img.shields.io/badge/SQL-white?logo=sql">
+<img src="https://img.shields.io/badge/Snowflake-white?logo=snowflake"> <img src="https://img.shields.io/badge/aws-white?logo=aws"> <img src="https://img.shields.io/badge/SQL-white?logo=sql">
 
-![Snowflake](https://github.com/camillekokoko/images/snowflake.jpg)
+![Snowflake](images/snowflake.jpg)
+
 credit: snowflake
 
 Check out [code](https://github.com/camillekokoko/)
@@ -214,7 +215,7 @@ Check out [code](https://github.com/camillekokoko/)
 ---
 
 # Statistical Analysis <a name="stat-analysis"></a>
-<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio"><img src="https://img.shields.io/badge/ggplot2-blue?logo=R"><img src="https://img.shields.io/badge/tidyverse-blue?logo=R"><img src="https://img.shields.io/badge/magrittr-blue?logo=R"><img src="https://img.shields.io/badge/anova-blue?logo=R"><img src="https://img.shields.io/badge/lm-blue?logo=R">
+<img src="https://img.shields.io/badge/RStudio-white?logo=RStudio"> <img src="https://img.shields.io/badge/ggplot2-blue?logo=R"> <img src="https://img.shields.io/badge/tidyverse-blue?logo=R"> <img src="https://img.shields.io/badge/magrittr-blue?logo=R"> <img src="https://img.shields.io/badge/anova-blue?logo=R"> <img src="https://img.shields.io/badge/lm-blue?logo=R">
 
 ![summary](images/summary.jpg)
 View Code [here](/survey.R/Statistical_Modelling_n_Inference_1.R)<br>
