@@ -191,7 +191,12 @@ View [pdf](pdf/computervision_sieman_model.pdf)
 
 ### 1.[Database](https://github.com/camillekokoko/Database)<br>
 ### 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
-### 3.[Cloud Engineering on AWS EC2 and Docker](https://github.com/camillekokoko/AWS_EC2_Docker)<br>
+### 3.Cloud Engineering on AWS EC2 and Docker
+architecture: 
+![architecture](images/AWS_framework.jpeg)
+
+View [here](https://github.com/camillekokoko/AWS_EC2_Docker)
+
 ### 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 ### 5.Snowflake: Financial 
 
