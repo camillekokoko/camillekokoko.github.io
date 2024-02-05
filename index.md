@@ -45,7 +45,8 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
 ![AB Testing](https://img.shields.io/badge/AB_Testing-white?logo=chart-bar)
 ![SQL](https://img.shields.io/badge/SQL-white?logo=mysql)
-
+![Hotjar](https://img.shields.io/badge/hotjar-white?style=for-the-badge&logo=hotjar&logoColor=white
+)
 
 Spearheaded the enhancement of online sales and user experience as a data analyst/statistician, managing GA4 implementation, AB testing, and data analytics, resulting in a remarkable ~15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
@@ -77,6 +78,8 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ![excel](https://img.shields.io/badge/excel-green?logo=excel)
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![data studio](https://img.shields.io/badge/visualization-white?logo=looker)
+![tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau&logoColor=white)
+
 
 Throughout my role as a Reporting and Data Analyst, I excelled in optimizing SEO strategies and producing automated daily reports to meticulously measure and enhance overall performance. Achieved notable improvements in website visibility, engagement, and key performance indicators, contributing to data-driven decision-making processes.
 
