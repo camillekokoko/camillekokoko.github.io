@@ -204,7 +204,7 @@ View [code](MMSegmentation_Tutorial.ipynb)
 ### 1.[Database](https://github.com/camillekokoko/Database)<br>
 ### 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
 ### 3.Cloud Engineering on AWS EC2 and Docker
-<img src="https://img.shields.io/badge/docker-white?logo=docker"> <img src="https://img.shields.io/badge/aws-white?logo=amazon-aws"> <img src="https://img.shields.io/badge/git-white?logo=git"> <img src="https://img.shields.io/badge/linux-white?logo=linux"> 
+<img src="https://img.shields.io/badge/docker-white?logo=docker"> <img src="https://img.shields.io/badge/aws-black?logo=amazon-aws"> <img src="https://img.shields.io/badge/git-white?logo=git"> <img src="https://img.shields.io/badge/linux-white?logo=linux"> 
 
 architecture: 
 ![architecture](images/AWS_framework.jpeg)
@@ -213,7 +213,7 @@ View [here](https://github.com/camillekokoko/AWS_EC2_Docker)
 
 ### 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
 ### 5.Snowflake
-<img src="https://img.shields.io/badge/Snowflake-white?logo=snowflake"> <img src="https://img.shields.io/badge/aws-white?logo=amazon-aws"> <img src="https://img.shields.io/badge/SQL-white?logo=sql">
+<img src="https://img.shields.io/badge/Snowflake-white?logo=snowflake"> <img src="https://img.shields.io/badge/aws-black?logo=amazon-aws"> <img src="https://img.shields.io/badge/SQL-white?logo=sql">
 
 ![Snowflake](images/snowflake_reset.jpg)
 credit: snowflake
