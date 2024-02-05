@@ -187,7 +187,7 @@ Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/
 View [pdf](pdf/computervision_sieman_model.pdf)
 
 ---
-# DevOps/MLOps/Cloud <a name="Ops-cloud"></a>
+# DevOps/MLOps/Cloud/Data Engineering <a name="Ops-cloud"></a>
 
 ### 1.[Database](https://github.com/camillekokoko/Database)<br>
 ### 2.[Data Structures and Algorithms](https://github.com/camillekokoko/Data_Structures_Algorithms)<br>
