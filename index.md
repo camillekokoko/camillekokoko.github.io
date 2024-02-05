@@ -197,11 +197,10 @@ View [pdf](pdf/computervision_sieman_model.pdf)
 
 <img src="https://img.shields.io/badge/Snowflake-white?logo=snowflake"> <img src="https://img.shields.io/badge/aws-white?logo=aws"> <img src="https://img.shields.io/badge/SQL-white?logo=sql">
 
-![Snowflake](images/snowflake.jpg)
 ![Snowflake](images/snowflake_reset.jpg)
 credit: snowflake
 
-Check out [code](https://github.com/camillekokoko/)
+Check out [code](https://github.com/camillekokoko/snowflake)
 
 
 ---
