@@ -184,6 +184,8 @@ Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/
 
 ### 7. Identify Playtus - Endangered Animal - using Computer Vision
 
+![playtus](images/playtus.jpg)
+
 View [pdf](pdf/computervision_sieman_model.pdf)
 
 ### 8. Segment Computer Vision
