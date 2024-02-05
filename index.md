@@ -186,6 +186,13 @@ Check out the [code](https://github.com/camillekokoko/Computer_Vision/blob/main/
 
 View [pdf](pdf/computervision_sieman_model.pdf)
 
+### 8. Segment Computer Vision
+
+![mmseg](images/mmseg.jpg)
+
+View [code](MMSegmentation_Tutorial.ipynb)
+
+
 ---
 # DevOps/MLOps/Cloud/Data Engineering <a name="Ops-cloud"></a>
 
