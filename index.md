@@ -209,7 +209,7 @@ architecture:
 View [here](https://github.com/camillekokoko/AWS_EC2_Docker)
 
 ### 4.[Airflow](https://github.com/camillekokoko/airflow-tutorial)<br>
-### 5.Snowflake: Financial 
+### 5.Snowflake
 <img src="https://img.shields.io/badge/Snowflake-white?logo=snowflake"> <img src="https://img.shields.io/badge/aws-white?logo=aws"> <img src="https://img.shields.io/badge/SQL-white?logo=sql">
 
 ![Snowflake](images/snowflake_reset.jpg)
