@@ -77,7 +77,6 @@ Check out the code [here](https://github.com/camillekokoko/GA4)
 ![excel](https://img.shields.io/badge/excel-green?logo=excel)
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![data studio](https://img.shields.io/badge/visualization-white?logo=looker)
-![tableau](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
 Throughout my role as a Reporting and Data Analyst, I excelled in optimizing SEO strategies and producing automated daily reports to meticulously measure and enhance overall performance. Achieved notable improvements in website visibility, engagement, and key performance indicators, contributing to data-driven decision-making processes.
