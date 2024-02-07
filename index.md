@@ -45,8 +45,7 @@ View [my experience](https://sacommunity.org/node/1081) at Infoxchange
 ![E-commerce Tracking](https://img.shields.io/badge/google--tagmanager-white?logo=googletagmanager)
 ![AB Testing](https://img.shields.io/badge/AB_Testing-white?logo=chart-bar)
 ![SQL](https://img.shields.io/badge/SQL-white?logo=mysql)
-![Hotjar](https://img.shields.io/badge/hotjar-white?style=for-the-badge&logo=hotjar&logoColor=white
-)
+![Hotjar](https://img.shields.io/badge/hotjar-white?&logo=hotjar)
 
 Spearheaded the enhancement of online sales and user experience as a data analyst/statistician, managing GA4 implementation, AB testing, and data analytics, resulting in a remarkable ~15% increase in conversion rates. Additionally, implemented sophisticated e-commerce tracking to meticulously monitor and optimize product performance.
 
