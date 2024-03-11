@@ -20,10 +20,10 @@ breadcrumb > You are viewing : Conference-Community-Hackathon | [Click me to Por
 # Certificates/Awards <a name="certificate_award"></a>
 
 
-Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure AI Engineer Associate (AZ-102) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
+Certified AWS Cloud Practitioner (CLF-C01) | Certified Microsoft Azure AI Engineer Associate (AI-102) | Certified Microsoft Azure Data Fundamentals (DP-100) | Certified Microsoft Azure AI Fundamentals (AI-900) | Certified Tableau Analyst & Scientist
 
 <img src="images/aws-cp.png" alt="Certified AWS Cloud Practitioner (CLF-C01)" width="150" height="150">
-<img src="images/azure-az102.png" alt="Certified Microsoft Azure AI Engineer Associate (AZ-102)" width="150" height="150">
+<img src="images/azure-ai102.png" alt="Certified Microsoft Azure AI Engineer Associate (AZ-102)" width="150" height="150">
 <img src="images/azure-dp100.png" alt="Certified Microsoft Azure Data Fundamentals (DP-100)" width="150" height="150">
 <img src="images/azure-ai900.png" alt="Certified Microsoft Azure AI Fundamentals (AI-900)" width="150" height="150">
 <img src="images/tableau-ds.png" alt="Certified Tableau Scientist" width="150" height="150">
